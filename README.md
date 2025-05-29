@@ -1,4 +1,3 @@
-Readme
 # **Questions/Notes for “Bring Back Rocktober”**
 
 ## **Book: A Fan’s Guide to Baseball Analytics**
