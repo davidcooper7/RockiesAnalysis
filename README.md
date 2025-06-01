@@ -32,4 +32,19 @@ Where it can be found is on Baseball Savant, Baseball Reference, and FanGraphs.
 
 #### **wOBA (Weighted On-Base Average)**
 
+Calculations for this stat are again complicated and changing from year to year best to find it already calculated for us. 
+
+This stat provides not only that a player reached on base but how a player reached on base. It does this by putting a weight in front of each event in which a player reaches base. For example, a single is weighted at .88 while a double is weighted at 1.25. These “weights change from year to year so it's important to use this stat as context of measuring players in the same year. This stat will show how valuable a player's production was for that given season. This could be a great way to help prove our hypothesis of required tools or metrics needed to succeed at Coors by showing above average wOBAs throughout different seasons. 
+
+This stat can be found on FanGraph and Baseball Savant.
+
+#### **wRC+ (Weighted Runs Created Plus)** 
+
+Another complicated calculation will need to find this stat. 
+
+This stat helps to determine how well a hitter is producing runs compared to the average player of that same time frame. This stat does a great job of adding context to a player's hitting performance by including ball park and other factors and comparing it to the league average player. With 100 being the average anything above that is better than average and vice versa for anything below. I believe we can use this stat as a baseline metric to help showcase reasoning behind why we have chosen the players we have to continue to succeed by showcasing players in the past with these same tools and having a high wRC+
+
+This stat can be found on FanGraphs.
+
+
 
