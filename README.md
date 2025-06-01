@@ -46,5 +46,10 @@ This stat helps to determine how well a hitter is producing runs compared to the
 
 This stat can be found on FanGraphs.
 
+#### **OPS+ (On-Base Plus Slugging Plus)
+
+Calculated as (OPS / league OPS,adjusted for park factors) * 100
+
+Another stat that helps determine a hitter's production ties in well with wRC+ and can also be used to compare players from different ERAs. This should also be used as a baseline metric when comparing players from different time periods when trying to find patterns in reasons for success. 
 
 
