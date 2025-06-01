@@ -46,7 +46,7 @@ This stat helps to determine how well a hitter is producing runs compared to the
 
 This stat can be found on FanGraphs.
 
-#### **OPS+ (On-Base Plus Slugging Plus)
+#### **OPS+ (On-Base Plus Slugging Plus)**
 
 Calculated as (OPS / league OPS,adjusted for park factors) * 100
 
