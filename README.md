@@ -6,7 +6,11 @@ README
 
 2025-12-29 [Do Contact Types Change at Coors Field?](https://open.substack.com/pub/purpleberry/p/do-contact-types-change-at-coors?r=71c9wg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-Post #4 -> Using pCBB to evaluate available 1B free agents, need to adjust pCBB
+2026-1-5 [Should the Rockies Sign a 1B Free Agent? No.](https://purpleberry.substack.com/p/should-the-rockies-sign-a-1b-free?r=71c9wg)
+
+2026-1-12 [Beating the Split: Breaking Down the Rockies' Home/Away Splits](https://purpleberry.substack.com/p/beating-the-split-breaking-down-the)
+
+
 
 Future directions?
 -------------------
@@ -15,4 +19,5 @@ Future directions?
   - defensive metric
   - home/road split sensitivity
   - baseline?
-- Pitching
+- chase / contact location in zone home v away
+- pitching
