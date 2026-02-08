@@ -1,4 +1,4 @@
-import os, sys, requests, json
+import os, sys, requests, json, math
 sys.path.append(os.path.dirname(os.path.realpath(__file__)) + '../..')
 import numpy as np
 import pandas as pd
@@ -7,12 +7,56 @@ from bs4 import BeautifulSoup
 pitch_full_names = json.load(open('/home/dcooper/rockies/RockiesAnalysis/utils/analysis/savant_pitch_names.json', 'r'))
 pitch_colors = json.load(open('/home/dcooper/rockies/RockiesAnalysis/utils/analysis/savant_pitch_colors.json', 'r'))
 
+outs = [
+    'field_out', 
+    'strikeout', 
+    'grounded_into_double_play', 
+    'force_out', 
+    'sac_fly', 
+    'sac_bunt', 
+    'fielders_choice_out', 
+    'fielders_choice', 
+    'double_play', 
+    'strikeout_double_play', 
+    'sac_fly_double_play'
+]
+
+AB_events = [
+    'field_out',
+    'strikeout',
+    'single',
+    'grounded_into_double_play',
+    'double',
+    'home_run',
+    'force_out',
+    'triple',
+    'field_error',
+    'fielders_choice_out',
+    'fielders_choice',
+    'double_play',
+    'strikeout_double_play',
+    'triple_play'
+]
+
+
 def get_spray_angle(hc_x, hc_y):
     return np.degrees(np.arctan2(hc_x - 125, 199 - hc_y))
 
     
 from utils.scraping.safe_playerid_lookup import savant_playerid_lookup
-def filter_df(df, last=None, first=None, playerid=None, batter: bool=False, pitcher: bool=False, home_team=None, away_team=None, batter_on_team=None, pitcher_on_team=None, p_throws=None, pitch_type=None, events=None):
+def filter_df(df, 
+              last=None, 
+              first=None, 
+              playerid=None, 
+              batter: bool=False, 
+              pitcher: bool=False, 
+              home_team=None, 
+              away_team=None, 
+              batter_on_team=None, 
+              pitcher_on_team=None, 
+              p_throws=None, 
+              pitch_type=None, 
+              events=None):
 
     """
     Filter batted ball data
@@ -62,7 +106,6 @@ def filter_df(df, last=None, first=None, playerid=None, batter: bool=False, pitc
         elif type(events) == str:
             df = df.loc[df['events'] == events]
     
-
     return df
 
 
@@ -131,6 +174,23 @@ def get_barrel_rate(df):
         return np.nan    
 
 
+
+def get_ABs(df):
+    df = df.loc[~df['events'].isnull()]
+    return df[df['events'].isin(AB_events)].shape[0]
+
+def get_SLG(df):
+    singles = filter_df(df, events='single').shape[0]
+    doubles = filter_df(df, events='double').shape[0]
+    triples = filter_df(df, events='triple').shape[0]
+    home_runs = filter_df(df, events='home_run').shape[0]
+
+    try:
+        return (1*singles + 2*doubles + 3*triples + 4*home_runs) / get_ABs(df)
+    except ZeroDivisionError:
+        return 0
+
+
 def get_pitcher_home_away_movement(pitcher_df):
     """
     Get per-pitch movement splits, assumes pitcher_df is only 1 pitcher
@@ -140,8 +200,10 @@ def get_pitcher_home_away_movement(pitcher_df):
     pitches = [str(pitch) for pitch in pitcher_df['pitch_type'].unique() if str(pitch) not in ['nan', 'PO']]
 
     # Initialize pitch splits dataframe
-    pitch_split_df = pd.DataFrame(columns=['Home X Break', 'Home Y Break', 'Away X Break', 'Away Y Break', 'ΔX Break', 'ΔY Break', 'ΔBreak', 'Home Usage', 'Away Usage'])
+    # pitch_split_df = pd.DataFrame(columns=['Home X Break', 'Home Y Break', 'Away X Break', 'Away Y Break', 'ΔX Break', 'ΔY Break', 'ΔBreak', '%Change', 'Home Usage', 'Away Usage'])
+    pitch_split_df = pd.DataFrame(columns=['ΔBreak', '%Change', 'Home Usage', 'Away Usage', 'Home SLG', 'Away SLG'])
 
+    
     # Iterate through pitches
     from scipy.spatial.distance import euclidean
     h_xy = []
@@ -161,10 +223,18 @@ def get_pitcher_home_away_movement(pitcher_df):
         # Deltas 
         delta_x = -1 * np.abs(hx.mean(axis=0) - awx.mean(axis=0))
         delta_y = -1 * np.abs(hy.mean(axis=0) - awy.mean(axis=0))
-        delta_break = -1 * euclidean(np.array([awx, awy]).mean(axis=1), np.array([hx, hy]).mean(axis=1))
+        home_break = math.hypot(hx.mean(), hy.mean())
+        away_break = math.hypot(awx.mean(), awy.mean())
+        delta_break = home_break - away_break
+        percent_change = delta_break / away_break
+
+        # Get SLG
+        away_SLG = get_SLG(away_pitch_df)
+        home_SLG = get_SLG(home_pitch_df)
 
         # Add to dataframe
-        pitch_split_df.loc[pitch_full_names[pitch]] = [hx.mean(), hy.mean(), awx.mean(), awy.mean(), delta_x, delta_y, delta_break, home_usage, away_usage]
+        pitch_split_df.loc[pitch_full_names[pitch]] = [delta_break, percent_change, home_usage, away_usage, home_SLG, away_SLG]
+        # pitch_split_df.loc[pitch_full_names[pitch]] = [hx.mean(), hy.mean(), awx.mean(), awy.mean(), delta_x, delta_y, delta_break, percent_change, home_usage, away_usage]
 
         # Add to lists 
         h_xy.append([hx, hy])
