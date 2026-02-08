@@ -1,16 +1,18 @@
-import os, sys, requests
+import os, sys, requests, json
 sys.path.append(os.path.dirname(os.path.realpath(__file__)) + '../..')
 import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup
 
+pitch_full_names = json.load(open('/home/dcooper/rockies/RockiesAnalysis/utils/analysis/savant_pitch_names.json', 'r'))
+pitch_colors = json.load(open('/home/dcooper/rockies/RockiesAnalysis/utils/analysis/savant_pitch_colors.json', 'r'))
 
 def get_spray_angle(hc_x, hc_y):
     return np.degrees(np.arctan2(hc_x - 125, 199 - hc_y))
 
     
 from utils.scraping.safe_playerid_lookup import savant_playerid_lookup
-def filter_df(df, last=None, first=None, playerid=None, batter: bool=False, home_team=None, away_team=None, batter_on_team=None, p_throws=None, pitch_type=None, events=None):
+def filter_df(df, last=None, first=None, playerid=None, batter: bool=False, pitcher: bool=False, home_team=None, away_team=None, batter_on_team=None, pitcher_on_team=None, p_throws=None, pitch_type=None, events=None):
 
     """
     Filter batted ball data
@@ -23,6 +25,8 @@ def filter_df(df, last=None, first=None, playerid=None, batter: bool=False, home
     # Filter by player
     if batter and playerid is not None:
         df = df.loc[df['batter'] == playerid]
+    if pitcher and playerid is not None:
+        df = df.loc[df['pitcher'] == playerid]
 
     # Filter by location
     if home_team is not None:
@@ -35,6 +39,10 @@ def filter_df(df, last=None, first=None, playerid=None, batter: bool=False, home
         is_home = (df['home_team'] == batter_on_team) & (df['inning_topbot'] == 'Bot')
         is_away = (df['away_team'] == batter_on_team) & (df['inning_topbot'] == 'Top')
         df = df.loc[is_home | is_away]
+    if pitcher_on_team is not None:
+        is_home = (df['home_team'] == pitcher_on_team) & (df['inning_topbot'] == 'Top')
+        is_away = (df['away_team'] == pitcher_on_team) & (df['inning_topbot'] == 'Bot')
+        df = df.loc[is_home | is_away]
 
     # Filter by pitcher handedness
     if p_throws is not None:
@@ -45,7 +53,7 @@ def filter_df(df, last=None, first=None, playerid=None, batter: bool=False, home
         if type(pitch_type) == list:
             df = df.loc[df['pitch_type'].isin(pitch_type)]
         elif type(pitch_type) == str:
-            df = df.loc[df['pitch_type'] == pitch_type]
+            df = df.loc[df['pitch_type'] == str(pitch_type)]
 
     # Filter by events
     if events is not None:
@@ -121,3 +129,45 @@ def get_barrel_rate(df):
         return 100 * (barrels / df.shape[0])
     except ZeroDivisionError:
         return np.nan    
+
+
+def get_pitcher_home_away_movement(pitcher_df):
+    """
+    Get per-pitch movement splits, assumes pitcher_df is only 1 pitcher
+    """
+    
+    # Get pitchs (skipping nan)
+    pitches = [str(pitch) for pitch in pitcher_df['pitch_type'].unique() if str(pitch) not in ['nan', 'PO']]
+
+    # Initialize pitch splits dataframe
+    pitch_split_df = pd.DataFrame(columns=['Home X Break', 'Home Y Break', 'Away X Break', 'Away Y Break', 'ΔX Break', 'ΔY Break', 'ΔBreak', 'Home Usage', 'Away Usage'])
+
+    # Iterate through pitches
+    from scipy.spatial.distance import euclidean
+    h_xy = []
+    aw_xy = []
+    for i, pitch in enumerate(pitches):
+
+        # Away
+        away_pitch_df = filter_df(pitcher_df, away_team='COL', pitch_type=pitch)
+        awx, awy = -away_pitch_df['pfx_x']*12, away_pitch_df['pfx_z']*12
+        away_usage = away_pitch_df.shape[0] / filter_df(pitcher_df, away_team='COL').shape[0]
+
+        # Home
+        home_pitch_df = filter_df(pitcher_df, home_team='COL', pitch_type=pitch)
+        hx, hy = -home_pitch_df['pfx_x']*12, home_pitch_df['pfx_z']*12
+        home_usage = home_pitch_df.shape[0] / filter_df(pitcher_df, home_team='COL').shape[0]
+        
+        # Deltas 
+        delta_x = -1 * np.abs(hx.mean(axis=0) - awx.mean(axis=0))
+        delta_y = -1 * np.abs(hy.mean(axis=0) - awy.mean(axis=0))
+        delta_break = -1 * euclidean(np.array([awx, awy]).mean(axis=1), np.array([hx, hy]).mean(axis=1))
+
+        # Add to dataframe
+        pitch_split_df.loc[pitch_full_names[pitch]] = [hx.mean(), hy.mean(), awx.mean(), awy.mean(), delta_x, delta_y, delta_break, home_usage, away_usage]
+
+        # Add to lists 
+        h_xy.append([hx, hy])
+        aw_xy.append([awx, awy])
+
+    return pitch_split_df, h_xy, aw_xy

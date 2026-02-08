@@ -33,7 +33,10 @@ def savant_playerid_lookup(last, first):
 
     # Missing FanGraphs IDs
     missing_ids = {
-        'CJ Cron': 543068
+        'CJ Cron': 543068,
+        'Welinton Herrera': 700327,
+        'Gabriel Hughes': 687312,
+        'RJ Petit': 696275
     }
     
     # Lookup fangraphs id
