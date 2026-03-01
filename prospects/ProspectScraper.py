@@ -59,6 +59,7 @@ class ProspectScraper():
                 json.dump(props, f, indent=4)
 
             # Add to DataFrame
+            print('>>>>', props_json)
             self.df.loc[self.df.shape[0]] = [name, age, level, playerid, props_json]
 
         # Save DataFrame
