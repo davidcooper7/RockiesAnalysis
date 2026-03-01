@@ -2,7 +2,6 @@ import os, sys, json
 import pandas as pd
 import numpy as np
 from utils.scraping.rosters import scrape_all_rosters
-from utils.scraping.safe_playerid_lookup import load_fangraph_playerids
 from utils.scraping.fangraphs import get_age, get_all_player_fangraphs_props
 
 
@@ -21,6 +20,7 @@ class ProspectScraper():
 
 
     def _scrape_prospects(self):
+        from utils.scraping.safe_playerid_lookup import load_fangraph_playerids
 
         # Create DataFrame
         self.df = pd.DataFrame(columns=['Name', 'Age', 'Level', 'FangraphsID', 'PropsJSON'])

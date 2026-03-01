@@ -45,6 +45,5 @@ class CombinedProspects(Prospects):
             elif k in self.pitching_categories:
                 self.w[k] = w/pitching_wsum
             elif k in self.hitting_categories:
-                print(k, w, hitting_wsum)
                 self.w[k] = w/hitting_wsum
                     

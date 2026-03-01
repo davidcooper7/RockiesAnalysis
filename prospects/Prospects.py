@@ -130,7 +130,6 @@ class Prospects():
         
 
     def _normalize_weights(self):
-        print('THIS IS RUNNING')
         wsum = np.sum([item for _, item in self.w.items()])
         if wsum == 0:
             n = len(self.w)
