@@ -23,27 +23,41 @@ class CombinedProspects(Prospects):
         self.pitching_categories = [c for c in self.pitching_prospects.categories]
         self.hitting_categories = [c for c in self.hitting_prospects.categories]
         self.both_categories = [c for c in self.pitching_categories if c in self.hitting_categories]
-
-
+        self.categories_dict = {
+            'Prospect Info': ['Age', 'Draft Round', 'Future Value'],
+            'Pitching & Hitting Stats': ['AVG', 'K%', 'BB%', 'GB%', 'LD%'],
+            'Pitching Grades': [g for g in self.pitching_prospects._grades if g not in self.both_categories + ['Level', 'Position']],
+            'Pitching Stats': [s for s in self.pitching_prospects._stats if s not in self.both_categories + ['IP']],
+            'Hitting Grades': [g for g in self.hitting_prospects._grades if g not in self.both_categories + ['Level', 'Position']],
+            'Hitting Stats': [s for s in self.hitting_prospects._stats if s not in self.both_categories + ['PA']]
+        }
+    
+    
     def _normalize_weights(self):
-
-        # Compute sums of different categories
-        hitting_wsum = np.sum([item for k, item in self.w.items() if k in self.hitting_categories]) / 100
-        pitching_wsum = np.sum([item for k, item in self.w.items() if k in self.pitching_categories]) / 100
-        both_wsum = np.sum([item for k, item in self.w.items() if k in self.both_categories]) / 100
-        wsum = hitting_wsum + pitching_wsum 
-
-        # Correct for division by zero
-        for s, c in zip([hitting_wsum, pitching_wsum, both_wsum, wsum], [self.hitting_categories, self.pitching_categories, self.both_categories, self._norm_df.index.to_list()]):
+    
+        hitting = {k: v for k, v in self.w.items() if k in self.hitting_categories}
+        pitching = {k: v for k, v in self.w.items() if k in self.pitching_categories}
+        both = {k: v for k, v in self.w.items() if k in self.both_categories}
+    
+        def normalize_group(group):
+            s = sum(group.values())
             if s == 0:
-                s = 1
-
-        # Normalize
-        for k, w in self.w.items():
-            if k in self.both_categories:
-                self.w[k] = w/both_wsum
-            elif k in self.pitching_categories:
-                self.w[k] = w/pitching_wsum
-            elif k in self.hitting_categories:
-                self.w[k] = w/hitting_wsum
-                    
+                return {k: 0 for k in group}
+            return {k: v/s for k, v in group.items()}
+    
+        hitting = normalize_group(hitting)
+        pitching = normalize_group(pitching)
+        both = normalize_group(both)
+    
+        # Define category-level weights explicitly
+        hitting_share = 0.5
+        pitching_share = 0.5
+    
+        for k in hitting:
+            self.w[k] = hitting[k] * hitting_share
+    
+        for k in pitching:
+            self.w[k] = pitching[k] * pitching_share
+    
+        for k in both:
+            self.w[k] = both[k]  # or give its own share

@@ -47,12 +47,16 @@ class PitcherProspects(Prospects):
 
         # Rename columns
         self.df = self.df.rename(columns={
-                       'Touch':'Tops' 
+                       'Touch':'Tops',
+                       'FV_Current': 'Future Value',
+                       'Draft_Rnd': 'Draft Round'
                        })
 
         # Rename grades
         self._grades[self._grades.index('Range')] = 'Sits'
         self._grades[self._grades.index('Touch')] = 'Tops'
+        self._grades[self._grades.index('FV_Current')] = 'Future Value'
+        self._grades[self._grades.index('Draft_Rnd')] = 'Draft Round'
 
         # Fix age == 0
         self.df.loc[self.df['Age'] == 0] = np.nan
@@ -77,14 +81,14 @@ class PitcherProspects(Prospects):
                 min, max = 85, 98.2
             elif grade == 'Tops':
                 min, max = 85, 102
-            elif grade == 'Draft_Rnd':
+            elif grade == 'Draft Round':
                 vals[vals == 0] = np.nan
                 min, max = 1, 20
             else: 
                 min, max = 20, 80       
 
             # Add to normalized DataFrame
-            if grade in ['Age', 'Draft_Rnd']:
+            if grade in ['Age', 'Draft Round']:
                 self._norm_df[grade] = 1 - self._normalize_vals(vals, min, max, grade)
             else:
                 self._norm_df[grade] = self._normalize_vals(vals, min, max, grade)

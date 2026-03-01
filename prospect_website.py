@@ -13,7 +13,15 @@ st.set_page_config(page_title='Rockies Prospects UI - BETA', layout='wide')
 
 # Page header
 with st.container():
-    st.subheader("Rockies Prospects!")
+    st.subheader("Rockies Prospects Custom Rankings")
+    st.markdown("""
+    Adjust the scouting and statistical weights in the sidebar to dynamically
+    re-rank Rockies prospects. Rankings update instantly based on your preferences.
+
+    Each grade/stat is presentated as on a 0 to 100 scale:\n
+    0 means you do not care about that category! \n
+    100 means you care about that category the most! 
+    """)
 
 @st.cache_resource
 def load_propsects():

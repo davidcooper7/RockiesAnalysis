@@ -68,7 +68,6 @@ class Sliders():
         raw = {stat: self.sliders[stat].value 
                for stat in self.prospects.categories}
 
-        print(f'raw {raw}')
         self.prospects.weigh(raw)
     
         with self.out:
