@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/roynier-hernandez/sa3018495",
             "fullRoute": "www.fangraphs.com/players/roynier-hernandez/sa3018495/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/roynier-hernandez/sa3018495/stats/batting",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "5'10\"",
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 2,
-                    "AgeDays": 16,
-                    "AgeDisplayOld": "21 years, 2 months, 16 days",
+                    "AgeDays": 23,
+                    "AgeDisplayOld": "21 years, 2 months, 23 days",
                     "BirthDateDisplay": "12/6/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 2 months, 16 days"
+                    "AgeDisplay": "21 years, 2 months, 23 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1090,21 +1090,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/roynier-hernandez/sa3018495/stats/batting",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "5'10\"",
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 2,
-                    "AgeDays": 16,
-                    "AgeDisplayOld": "21 years, 2 months, 16 days",
+                    "AgeDays": 23,
+                    "AgeDisplayOld": "21 years, 2 months, 23 days",
                     "BirthDateDisplay": "12/6/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 2 months, 16 days"
+                    "AgeDisplay": "21 years, 2 months, 23 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1445,6 +1445,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1453,7 +1454,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-2b",
                 "role": "A+",
                 "position": "2B/3B",
@@ -2508,7 +2509,7 @@
         "playerNameRoute": "roynier-hernandez",
         "playerId": "sa3018495"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

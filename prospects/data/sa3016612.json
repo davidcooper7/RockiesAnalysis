@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/redinson-gomez/sa3016612",
             "fullRoute": "www.fangraphs.com/players/redinson-gomez/sa3016612/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 22,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 6,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "21 years, 6 months, 27 days",
+                    "AgeMonths": 7,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "21 years, 7 months, 3 days",
                     "BirthDateDisplay": "7/26/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 6 months, 27 days"
+                    "AgeDisplay": "21 years, 7 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -406,12 +406,12 @@
                         "K/9": 4.914,
                         "BB/9": 8.307,
                         "K/BB": 0.591549,
-                        "H/9": 10.3302,
+                        "H/9": 10.3311,
                         "HR/9": 1.526,
-                        "AVG": 0.285778,
-                        "WHIP": 2.0708,
-                        "BABIP": 0.296362,
-                        "LOB%": 0.681676,
+                        "AVG": 0.285803,
+                        "WHIP": 2.0709,
+                        "BABIP": 0.296392,
+                        "LOB%": 0.681693,
                         "FIP": 7.16216,
                         "LD%": 0.205011,
                         "GB%": 0.400995,
@@ -609,16 +609,16 @@
                     "Age": 22,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 6,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "21 years, 6 months, 27 days",
+                    "AgeMonths": 7,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "21 years, 7 months, 3 days",
                     "BirthDateDisplay": "7/26/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 6 months, 27 days"
+                    "AgeDisplay": "21 years, 7 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -716,6 +716,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1728,7 +1729,7 @@
         "playerNameRoute": "redinson-gomez",
         "playerId": "sa3016612"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

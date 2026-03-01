@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jordy-vargas/sa3016052",
             "fullRoute": "www.fangraphs.com/players/jordy-vargas/sa3016052/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 3,
-                    "AgeDays": 16,
-                    "AgeDisplayOld": "22 years, 3 months, 16 days",
+                    "AgeDays": 23,
+                    "AgeDisplayOld": "22 years, 3 months, 23 days",
                     "BirthDateDisplay": "11/6/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 3 months, 16 days"
+                    "AgeDisplay": "22 years, 3 months, 23 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -681,7 +681,7 @@
                         "Age": 22,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.59448,
+                        "ERA": 6.59403,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -711,9 +711,9 @@
                         "BABIP": 0.308131,
                         "LOB%": 0.663949,
                         "FIP": 6.24448,
-                        "LD%": 0.212776,
-                        "GB%": 0.388071,
-                        "FB%": 0.399153,
+                        "LD%": 0.212782,
+                        "GB%": 0.388053,
+                        "FB%": 0.399165,
                         "RAR": 0,
                         "WAR": -0.000381896,
                         "xFIP": 5.74941,
@@ -948,15 +948,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 3,
-                    "AgeDays": 16,
-                    "AgeDisplayOld": "22 years, 3 months, 16 days",
+                    "AgeDays": 23,
+                    "AgeDisplayOld": "22 years, 3 months, 23 days",
                     "BirthDateDisplay": "11/6/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 3 months, 16 days"
+                    "AgeDisplay": "22 years, 3 months, 23 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1312,6 +1312,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1320,7 +1321,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A+",
                 "position": "SP",
@@ -2375,7 +2376,7 @@
         "playerNameRoute": "jordy-vargas",
         "playerId": "sa3016052"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

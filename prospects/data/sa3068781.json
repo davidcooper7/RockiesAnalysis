@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/omar-munoz/sa3068781",
             "fullRoute": "www.fangraphs.com/players/omar-munoz/sa3068781/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 3,
-                    "AgeDays": 16,
-                    "AgeDisplayOld": "18 years, 3 months, 16 days",
+                    "AgeDays": 23,
+                    "AgeDisplayOld": "18 years, 3 months, 23 days",
                     "BirthDateDisplay": "11/6/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 3 months, 16 days"
+                    "AgeDisplay": "18 years, 3 months, 23 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -288,15 +288,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 3,
-                    "AgeDays": 16,
-                    "AgeDisplayOld": "18 years, 3 months, 16 days",
+                    "AgeDays": 23,
+                    "AgeDisplayOld": "18 years, 3 months, 23 days",
                     "BirthDateDisplay": "11/6/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 3 months, 16 days"
+                    "AgeDisplay": "18 years, 3 months, 23 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -566,6 +566,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1578,7 +1579,7 @@
         "playerNameRoute": "omar-munoz",
         "playerId": "sa3068781"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

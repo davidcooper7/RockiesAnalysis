@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/sandy-ozuna/sa3021041",
             "fullRoute": "www.fangraphs.com/players/sandy-ozuna/sa3021041/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/sandy-ozuna/sa3021041/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 20,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 8,
-                    "AgeDays": 29,
-                    "AgeDisplayOld": "19 years, 8 months, 29 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 5,
+                    "AgeDisplayOld": "19 years, 9 months, 5 days",
                     "BirthDateDisplay": "5/24/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 8 months, 29 days"
+                    "AgeDisplay": "19 years, 9 months, 5 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -308,7 +308,7 @@
                         "Age": 20,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.87321,
+                        "ERA": 6.87366,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -509,21 +509,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/sandy-ozuna/sa3021041/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 20,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 8,
-                    "AgeDays": 29,
-                    "AgeDisplayOld": "19 years, 8 months, 29 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 5,
+                    "AgeDisplayOld": "19 years, 9 months, 5 days",
                     "BirthDateDisplay": "5/24/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 8 months, 29 days"
+                    "AgeDisplay": "19 years, 9 months, 5 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -791,6 +791,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -799,7 +800,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "Rk",
                 "position": "SP",
@@ -807,7 +808,7 @@
                 "player": "Sandy Ozuna",
                 "notes": "",
                 "handed": "R",
-                "age": "19.7",
+                "age": "19.8",
                 "acquired": "Amateur FA (DOM) Jun'23",
                 "options": "Dec'27",
                 "servicetime": "",
@@ -818,7 +819,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 814252,
-                "age1": "19.7",
+                "age1": "19.8",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "R",
@@ -1854,7 +1855,7 @@
         "playerNameRoute": "sandy-ozuna",
         "playerId": "sa3021041"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

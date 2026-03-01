@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/wander-mendez/sa3068593",
             "fullRoute": "www.fangraphs.com/players/wander-mendez/sa3068593/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 11,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "18 years, 11 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "18 years, 11 months, 11 days",
                     "BirthDateDisplay": "3/18/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 11 months, 4 days"
+                    "AgeDisplay": "18 years, 11 months, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -213,15 +213,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 11,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "18 years, 11 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "18 years, 11 months, 11 days",
                     "BirthDateDisplay": "3/18/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 11 months, 4 days"
+                    "AgeDisplay": "18 years, 11 months, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -396,6 +396,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1408,7 +1409,7 @@
         "playerNameRoute": "wander-mendez",
         "playerId": "sa3068593"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

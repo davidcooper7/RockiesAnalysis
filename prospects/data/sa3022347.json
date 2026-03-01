@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/wilder-dalis/sa3022347",
             "fullRoute": "www.fangraphs.com/players/wilder-dalis/sa3022347/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/wilder-dalis/sa3022347/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 20,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 6,
-                    "AgeDays": 23,
-                    "AgeDisplayOld": "19 years, 6 months, 23 days",
+                    "AgeMonths": 7,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "19 years, 7 months, 1 days",
                     "BirthDateDisplay": "7/30/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 6 months, 23 days"
+                    "AgeDisplay": "19 years, 7 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -495,9 +495,9 @@
                         "sortType": -53
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (A)",
-                        "ateam": "Rockies (A)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (CPX)",
+                        "ateam": "Rockies (CPX)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 18,
@@ -559,7 +559,7 @@
                         "wBsR": -0.367435,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "11,14",
+                        "leagueUrl": "all",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -866,26 +866,6 @@
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=286&players=0\">Rockies (DSL)</a>",
-                        "ateam": "Rockies (DSL)",
-                        "AbbName": "COL",
-                        "AbbLevel": "DSL",
-                        "Pos": "SS",
-                        "apos": "SS",
-                        "G": 2,
-                        "GS": 2,
-                        "Inn": 18,
-                        "PO": 2,
-                        "A": 6,
-                        "E": 0,
-                        "DP": 0,
-                        "posnum": 6,
-                        "Type": -55,
-                        "aseason": 2023,
-                        "teamId": -286
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=220&players=0\">Rockies (DSL)</a>",
                         "ateam": "Rockies (DSL)",
                         "AbbName": "COL",
@@ -903,6 +883,26 @@
                         "Type": -55,
                         "aseason": 2023,
                         "teamId": -220
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=286&players=0\">Rockies (DSL)</a>",
+                        "ateam": "Rockies (DSL)",
+                        "AbbName": "COL",
+                        "AbbLevel": "DSL",
+                        "Pos": "SS",
+                        "apos": "SS",
+                        "G": 2,
+                        "GS": 2,
+                        "Inn": 18,
+                        "PO": 2,
+                        "A": 6,
+                        "E": 0,
+                        "DP": 0,
+                        "posnum": 6,
+                        "Type": -55,
+                        "aseason": 2023,
+                        "teamId": -286
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2024&team=0&players=0\">2024</a>",
@@ -1080,21 +1080,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/wilder-dalis/sa3022347/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 20,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 6,
-                    "AgeDays": 23,
-                    "AgeDisplayOld": "19 years, 6 months, 23 days",
+                    "AgeMonths": 7,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "19 years, 7 months, 1 days",
                     "BirthDateDisplay": "7/30/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 6 months, 23 days"
+                    "AgeDisplay": "19 years, 7 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1108,9 +1108,9 @@
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (A)",
-                        "ateam": "Rockies (A)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (CPX)",
+                        "ateam": "Rockies (CPX)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 18,
@@ -1172,7 +1172,7 @@
                         "wBsR": -0.367435,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "11,14",
+                        "leagueUrl": "all",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -1380,6 +1380,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1388,7 +1389,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-3b",
                 "role": "A",
                 "position": "3B/SS/2B",
@@ -2443,7 +2444,7 @@
         "playerNameRoute": "wilder-dalis",
         "playerId": "sa3022347"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

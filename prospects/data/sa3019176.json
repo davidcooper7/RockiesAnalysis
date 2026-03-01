@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/luis-tejeda/sa3019176",
             "fullRoute": "www.fangraphs.com/players/luis-tejeda/sa3019176/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/luis-tejeda/sa3019176/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'2\"",
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 2,
-                    "AgeDays": 9,
-                    "AgeDisplayOld": "21 years, 2 months, 9 days",
+                    "AgeDays": 16,
+                    "AgeDisplayOld": "21 years, 2 months, 16 days",
                     "BirthDateDisplay": "12/13/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 2 months, 9 days"
+                    "AgeDisplay": "21 years, 2 months, 16 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -383,7 +383,7 @@
                         "Age": 21,
                         "W": 0,
                         "L": 0,
-                        "ERA": 7.0074,
+                        "ERA": 7.00785,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -406,12 +406,12 @@
                         "K/9": 4.4613,
                         "BB/9": 8.1054,
                         "K/BB": 0.550411,
-                        "H/9": 10.5669,
+                        "H/9": 10.5678,
                         "HR/9": 1.49,
-                        "AVG": 0.290965,
-                        "WHIP": 2.0747,
-                        "BABIP": 0.298921,
-                        "LOB%": 0.678759,
+                        "AVG": 0.290989,
+                        "WHIP": 2.0748,
+                        "BABIP": 0.298951,
+                        "LOB%": 0.678722,
                         "FIP": 7.16036,
                         "LD%": 0.204997,
                         "GB%": 0.420999,
@@ -604,21 +604,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/luis-tejeda/sa3019176/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'2\"",
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 2,
-                    "AgeDays": 9,
-                    "AgeDisplayOld": "21 years, 2 months, 9 days",
+                    "AgeDays": 16,
+                    "AgeDisplayOld": "21 years, 2 months, 16 days",
                     "BirthDateDisplay": "12/13/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 2 months, 9 days"
+                    "AgeDisplay": "21 years, 2 months, 16 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -793,6 +793,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1805,7 +1806,7 @@
         "playerNameRoute": "luis-tejeda",
         "playerId": "sa3019176"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

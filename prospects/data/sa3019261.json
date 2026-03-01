@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/marcos-herrera/sa3019261",
             "fullRoute": "www.fangraphs.com/players/marcos-herrera/sa3019261/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 4,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "21 years, 4 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "21 years, 4 months, 18 days",
                     "BirthDateDisplay": "10/11/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 4 months, 11 days"
+                    "AgeDisplay": "21 years, 4 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -555,12 +555,12 @@
                         "K/9": 5.0067,
                         "BB/9": 5.346,
                         "K/BB": 0.936532,
-                        "H/9": 11.1987,
+                        "H/9": 11.1978,
                         "HR/9": 1.74,
-                        "AVG": 0.302404,
-                        "WHIP": 1.8383,
-                        "BABIP": 0.312317,
-                        "LOB%": 0.658317,
+                        "AVG": 0.302379,
+                        "WHIP": 1.8382,
+                        "BABIP": 0.312287,
+                        "LOB%": 0.658295,
                         "FIP": 6.47477,
                         "LD%": 0.21213,
                         "GB%": 0.420065,
@@ -659,26 +659,6 @@
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=286&players=0\">Rockies (DSL)</a>",
-                        "ateam": "Rockies (DSL)",
-                        "AbbName": "COL",
-                        "AbbLevel": "DSL",
-                        "Pos": "P",
-                        "apos": "P",
-                        "G": 2,
-                        "GS": 0,
-                        "Inn": 6.199999809265137,
-                        "PO": 0,
-                        "A": 0,
-                        "E": 0,
-                        "DP": 0,
-                        "posnum": 1,
-                        "Type": -55,
-                        "aseason": 2023,
-                        "teamId": -286
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=220&players=0\">Rockies (DSL)</a>",
                         "ateam": "Rockies (DSL)",
                         "AbbName": "COL",
@@ -696,6 +676,26 @@
                         "Type": -55,
                         "aseason": 2023,
                         "teamId": -220
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=286&players=0\">Rockies (DSL)</a>",
+                        "ateam": "Rockies (DSL)",
+                        "AbbName": "COL",
+                        "AbbLevel": "DSL",
+                        "Pos": "P",
+                        "apos": "P",
+                        "G": 2,
+                        "GS": 0,
+                        "Inn": 6.199999809265137,
+                        "PO": 0,
+                        "A": 0,
+                        "E": 0,
+                        "DP": 0,
+                        "posnum": 1,
+                        "Type": -55,
+                        "aseason": 2023,
+                        "teamId": -286
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2024&team=0&players=0\">2024</a>",
@@ -779,15 +779,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 4,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "21 years, 4 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "21 years, 4 months, 18 days",
                     "BirthDateDisplay": "10/11/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 4 months, 11 days"
+                    "AgeDisplay": "21 years, 4 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1073,6 +1073,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1081,7 +1082,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A+",
                 "position": "SP",
@@ -2136,7 +2137,7 @@
         "playerNameRoute": "marcos-herrera",
         "playerId": "sa3019261"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

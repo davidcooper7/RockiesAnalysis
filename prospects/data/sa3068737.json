@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/bryson-van-sickle/sa3068737",
             "fullRoute": "www.fangraphs.com/players/bryson-van-sickle/sa3068737/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 1,
-                    "AgeDays": 18,
-                    "AgeDisplayOld": "25 years, 1 months, 18 days",
+                    "AgeDays": 25,
+                    "AgeDisplayOld": "25 years, 1 months, 25 days",
                     "BirthDateDisplay": "1/4/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 1 month, 18 days"
+                    "AgeDisplay": "25 years, 1 month, 25 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -497,15 +497,15 @@
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 1,
-                    "AgeDays": 18,
-                    "AgeDisplayOld": "25 years, 1 months, 18 days",
+                    "AgeDays": 25,
+                    "AgeDisplayOld": "25 years, 1 months, 25 days",
                     "BirthDateDisplay": "1/4/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 1 month, 18 days"
+                    "AgeDisplay": "25 years, 1 month, 25 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -758,6 +758,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": true,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1770,7 +1771,7 @@
         "playerNameRoute": "bryson-van-sickle",
         "playerId": "sa3068737"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

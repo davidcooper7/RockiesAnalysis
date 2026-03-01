@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/dylan-crooks/sa3029583",
             "fullRoute": "www.fangraphs.com/players/dylan-crooks/sa3029583/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 19,
-                    "AgeDisplayOld": "22 years, 11 months, 19 days",
+                    "AgeDays": 26,
+                    "AgeDisplayOld": "22 years, 11 months, 26 days",
                     "BirthDateDisplay": "3/3/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 19 days"
+                    "AgeDisplay": "22 years, 11 months, 26 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -209,15 +209,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 19,
-                    "AgeDisplayOld": "22 years, 11 months, 19 days",
+                    "AgeDays": 26,
+                    "AgeDisplayOld": "22 years, 11 months, 26 days",
                     "BirthDateDisplay": "3/3/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 19 days"
+                    "AgeDisplay": "22 years, 11 months, 26 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -294,6 +294,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1334,7 +1335,7 @@
         "playerNameRoute": "dylan-crooks",
         "playerId": "sa3029583"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

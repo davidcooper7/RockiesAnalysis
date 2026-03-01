@@ -4,6 +4,7 @@ import numpy as np
 from prospects.ProspectScraper import *
 from utils.scraping.fangraphs import *
 from utils.scraping.split_name import split_name
+from pathlib import Path
 
 class Prospects():
     """
@@ -49,11 +50,13 @@ class Prospects():
     def _init_df(self):
         
         # Build initial df from FanGraphs props
+        base_dir = Path(__file__).resolve().parent
+        self.prospect_data_dir = base_dir / "data"
         self.df = pd.DataFrame(columns= self._grades + self._stat_cols)
-        for (i, name, age, level, playerid, props_json) in self.scraper:
+        for (name, age, level, playerid, props_json) in self.scraper:
 
             # Get props
-            props = json.load(open(props_json, 'r'))
+            props = json.load(open(os.path.join(self.prospect_data_dir, props_json), 'r'))
             
             # Check if prospect
             if not self._check(props):

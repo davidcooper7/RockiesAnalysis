@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/zachary-rogacki/sa3041032",
             "fullRoute": "www.fangraphs.com/players/zachary-rogacki/sa3041032/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 7,
-                    "AgeDays": 3,
-                    "AgeDisplayOld": "22 years, 7 months, 3 days",
+                    "AgeDays": 10,
+                    "AgeDisplayOld": "22 years, 7 months, 10 days",
                     "BirthDateDisplay": "7/19/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 7 months, 3 days"
+                    "AgeDisplay": "22 years, 7 months, 10 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -211,15 +211,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 7,
-                    "AgeDays": 3,
-                    "AgeDisplayOld": "22 years, 7 months, 3 days",
+                    "AgeDays": 10,
+                    "AgeDisplayOld": "22 years, 7 months, 10 days",
                     "BirthDateDisplay": "7/19/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 7 months, 3 days"
+                    "AgeDisplay": "22 years, 7 months, 10 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -315,6 +315,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -351,7 +352,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-c",
                 "role": "A",
                 "position": "C/RF/LF",
@@ -1406,7 +1407,7 @@
         "playerNameRoute": "zachary-rogacki",
         "playerId": "sa3041032"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

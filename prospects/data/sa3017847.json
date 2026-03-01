@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/mason-albright/sa3017847",
             "fullRoute": "www.fangraphs.com/players/mason-albright/sa3017847/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 23,
                     "AgeToday": 23,
                     "AgeYears": 23,
-                    "AgeMonths": 2,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "23 years, 2 months, 27 days",
+                    "AgeMonths": 3,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "23 years, 3 months, 3 days",
                     "BirthDateDisplay": "11/26/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 2 months, 27 days"
+                    "AgeDisplay": "23 years, 3 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1194,7 +1194,7 @@
                         "Age": 23,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.06006,
+                        "ERA": 6.05961,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -1217,12 +1217,12 @@
                         "K/9": 5.1336,
                         "BB/9": 3.3642,
                         "K/BB": 1.52595,
-                        "H/9": 11.088,
+                        "H/9": 11.0871,
                         "HR/9": 1.789,
-                        "AVG": 0.298262,
-                        "WHIP": 1.6058,
-                        "BABIP": 0.307377,
-                        "LOB%": 0.673064,
+                        "AVG": 0.298238,
+                        "WHIP": 1.6057,
+                        "BABIP": 0.307347,
+                        "LOB%": 0.673039,
                         "FIP": 5.80665,
                         "LD%": 0.212575,
                         "GB%": 0.385666,
@@ -1692,16 +1692,16 @@
                     "Age": 23,
                     "AgeToday": 23,
                     "AgeYears": 23,
-                    "AgeMonths": 2,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "23 years, 2 months, 27 days",
+                    "AgeMonths": 3,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "23 years, 3 months, 3 days",
                     "BirthDateDisplay": "11/26/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 2 months, 27 days"
+                    "AgeDisplay": "23 years, 3 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -2147,6 +2147,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": true,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -2183,7 +2184,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "AAA",
                 "position": "SP",
@@ -2191,7 +2192,7 @@
                 "player": "Mason Albright",
                 "notes": "",
                 "handed": "L",
-                "age": "23.2",
+                "age": "23.3",
                 "acquired": "Trade (LAA) Jul'23",
                 "options": "R5",
                 "servicetime": "",
@@ -2202,7 +2203,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 695476,
-                "age1": "23.2",
+                "age1": "23.3",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "L",
@@ -3238,7 +3239,7 @@
         "playerNameRoute": "mason-albright",
         "playerId": "sa3017847"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

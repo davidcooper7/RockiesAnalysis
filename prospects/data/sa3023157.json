@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jack-mahoney/sa3023157",
             "fullRoute": "www.fangraphs.com/players/jack-mahoney/sa3023157/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jack-mahoney/sa3023157/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 25,
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 6,
-                    "AgeDays": 9,
-                    "AgeDisplayOld": "24 years, 6 months, 9 days",
+                    "AgeDays": 16,
+                    "AgeDisplayOld": "24 years, 6 months, 16 days",
                     "BirthDateDisplay": "8/13/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 6 months, 9 days"
+                    "AgeDisplay": "24 years, 6 months, 16 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -549,7 +549,7 @@
                         "Age": 24,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.72382,
+                        "ERA": 5.72301,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -572,12 +572,12 @@
                         "K/9": 5.3406,
                         "BB/9": 3.4902,
                         "K/BB": 1.53017,
-                        "H/9": 10.9116,
+                        "H/9": 10.9107,
                         "HR/9": 1.481,
-                        "AVG": 0.296684,
-                        "WHIP": 1.6002,
-                        "BABIP": 0.314806,
-                        "LOB%": 0.672131,
+                        "AVG": 0.29666,
+                        "WHIP": 1.6001,
+                        "BABIP": 0.314776,
+                        "LOB%": 0.67218,
                         "FIP": 5.39106,
                         "LD%": 0.211491,
                         "GB%": 0.468897,
@@ -922,21 +922,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jack-mahoney/sa3023157/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 25,
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 6,
-                    "AgeDays": 9,
-                    "AgeDisplayOld": "24 years, 6 months, 9 days",
+                    "AgeDays": 16,
+                    "AgeDisplayOld": "24 years, 6 months, 16 days",
                     "BirthDateDisplay": "8/13/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 6 months, 9 days"
+                    "AgeDisplay": "24 years, 6 months, 16 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1238,6 +1238,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1274,7 +1275,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "AA",
                 "position": "SP",
@@ -2329,7 +2330,7 @@
         "playerNameRoute": "jack-mahoney",
         "playerId": "sa3023157"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

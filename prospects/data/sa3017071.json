@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/austin-smith/sa3017071",
             "fullRoute": "www.fangraphs.com/players/austin-smith/sa3017071/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 8,
-                    "AgeDays": 0,
-                    "AgeDisplayOld": "26 years, 8 months, 0 days",
+                    "AgeDays": 7,
+                    "AgeDisplayOld": "26 years, 8 months, 7 days",
                     "BirthDateDisplay": "6/22/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 8 months"
+                    "AgeDisplay": "26 years, 8 months, 7 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1033,6 +1033,7 @@
                         "Oppo%": 0,
                         "type": -40,
                         "aseason": 2025,
+                        "CompetitiveSwings": 0,
                         "leagueUrl": "all",
                         "teamId": -337,
                         "sortSeason": 2025,
@@ -1047,7 +1048,7 @@
                         "Age": 27,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.76369,
+                        "ERA": 5.76324,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -1075,7 +1076,7 @@
                         "AVG": 0.282133,
                         "WHIP": 1.6552,
                         "BABIP": 0.31282,
-                        "LOB%": 0.685329,
+                        "LOB%": 0.6854,
                         "FIP": 5.46565,
                         "LD%": 0.212344,
                         "GB%": 0.412431,
@@ -1446,26 +1447,6 @@
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=43&players=0\">Braves (AA)</a>",
-                        "ateam": "Braves (AA)",
-                        "AbbName": "ATL",
-                        "AbbLevel": "AA",
-                        "Pos": "P",
-                        "apos": "P",
-                        "G": 18,
-                        "GS": 0,
-                        "Inn": 20,
-                        "PO": 2,
-                        "A": 1,
-                        "E": 0,
-                        "DP": 0,
-                        "posnum": 1,
-                        "Type": -51,
-                        "aseason": 2025,
-                        "teamId": -43
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=46&players=0\">Rockies (AA)</a>",
                         "ateam": "Rockies (AA)",
                         "AbbName": "COL",
@@ -1483,6 +1464,26 @@
                         "Type": -51,
                         "aseason": 2025,
                         "teamId": -46
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=43&players=0\">Braves (AA)</a>",
+                        "ateam": "Braves (AA)",
+                        "AbbName": "ATL",
+                        "AbbLevel": "AA",
+                        "Pos": "P",
+                        "apos": "P",
+                        "G": 18,
+                        "GS": 0,
+                        "Inn": 20,
+                        "PO": 2,
+                        "A": 1,
+                        "E": 0,
+                        "DP": 0,
+                        "posnum": 1,
+                        "Type": -51,
+                        "aseason": 2025,
+                        "teamId": -43
                     }
                 ],
                 "fsr": [],
@@ -1526,15 +1527,15 @@
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 8,
-                    "AgeDays": 0,
-                    "AgeDisplayOld": "26 years, 8 months, 0 days",
+                    "AgeDays": 7,
+                    "AgeDisplayOld": "26 years, 8 months, 7 days",
                     "BirthDateDisplay": "6/22/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 8 months"
+                    "AgeDisplay": "26 years, 8 months, 7 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1879,6 +1880,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1915,7 +1917,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "AA",
                 "position": "RP",
@@ -2970,7 +2972,7 @@
         "playerNameRoute": "austin-smith",
         "playerId": "sa3017071"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/gleiderson-mendoza/sa3068625",
             "fullRoute": "www.fangraphs.com/players/gleiderson-mendoza/sa3068625/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 18,
                     "AgeToday": 17,
                     "AgeYears": 17,
-                    "AgeMonths": 10,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "17 years, 10 months, 21 days",
+                    "AgeMonths": 11,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "17 years, 11 months, 0 days",
                     "BirthDateDisplay": "4/1/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "17 years, 10 months, 21 days"
+                    "AgeDisplay": "17 years, 11 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -381,16 +381,16 @@
                     "Age": 18,
                     "AgeToday": 17,
                     "AgeYears": 17,
-                    "AgeMonths": 10,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "17 years, 10 months, 21 days",
+                    "AgeMonths": 11,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "17 years, 11 months, 0 days",
                     "BirthDateDisplay": "4/1/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "17 years, 10 months, 21 days"
+                    "AgeDisplay": "17 years, 11 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -585,6 +585,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1597,7 +1598,7 @@
         "playerNameRoute": "gleiderson-mendoza",
         "playerId": "sa3068625"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

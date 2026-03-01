@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/derek-bernard/sa3018477",
             "fullRoute": "www.fangraphs.com/players/derek-bernard/sa3018477/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 6,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "20 years, 6 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "20 years, 6 months, 20 days",
                     "BirthDateDisplay": "8/9/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 6 months, 13 days"
+                    "AgeDisplay": "20 years, 6 months, 20 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -565,9 +565,9 @@
                         "sortType": -53
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (A)",
-                        "ateam": "Rockies (A)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (CPX)",
+                        "ateam": "Rockies (CPX)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 19,
@@ -629,7 +629,7 @@
                         "wBsR": -0.778375,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "11,14",
+                        "leagueUrl": "all",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -1096,15 +1096,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 6,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "20 years, 6 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "20 years, 6 months, 20 days",
                     "BirthDateDisplay": "8/9/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 6 months, 13 days"
+                    "AgeDisplay": "20 years, 6 months, 20 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1118,9 +1118,9 @@
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (A)",
-                        "ateam": "Rockies (A)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (CPX)",
+                        "ateam": "Rockies (CPX)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 19,
@@ -1182,7 +1182,7 @@
                         "wBsR": -0.778375,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "11,14",
+                        "leagueUrl": "all",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -1423,6 +1423,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1431,7 +1432,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "A+",
                 "position": "LF/RF",
@@ -1439,7 +1440,7 @@
                 "player": "Derek Bernard",
                 "notes": "",
                 "handed": "L",
-                "age": "20.5",
+                "age": "20.6",
                 "acquired": "Amateur FA (DOM) Jan'22",
                 "options": "Dec'27",
                 "servicetime": "",
@@ -1450,7 +1451,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 800204,
-                "age1": "20.5",
+                "age1": "20.6",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "L",
@@ -2486,7 +2487,7 @@
         "playerNameRoute": "derek-bernard",
         "playerId": "sa3018477"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

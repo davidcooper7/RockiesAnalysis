@@ -11,9 +11,6 @@ class ProspectScraper():
 
         base_dir = Path(__file__).resolve().parent
         self.prospect_data_dir = base_dir / "data"
-        print('>>> base_dir', base_dir)
-        print('>>> self.prospect_data_dir', self.prospect_data_dir)
-
         self.csv_fn = self.prospect_data_dir / "prospects.csv"
 
         if self.csv_fn.exists():
@@ -54,12 +51,11 @@ class ProspectScraper():
             age = get_age(props)
 
             # Store props to .json
-            props_json = os.path.join(self.prospect_data_dir, str(playerid) + '.json')
-            with open(props_json, 'w') as f:
+            props_json = str(playerid) + '.json'
+            with open(os.path.join(self.prospect_data_dir, props_json), 'w') as f:
                 json.dump(props, f, indent=4)
 
             # Add to DataFrame
-            print('>>>>', props_json)
             self.df.loc[self.df.shape[0]] = [name, age, level, playerid, props_json]
 
         # Save DataFrame
@@ -67,7 +63,7 @@ class ProspectScraper():
 
 
     def __iter__(self):
-        return zip(*(self.df[col] for col in self.df.columns))
+        return zip(*(self.df[col] for col in ['Name', 'Age', 'Level', 'FangraphsID', 'PropsJSON']))
 
 
 def load_pitching_categories(years=[2024, 2025]):

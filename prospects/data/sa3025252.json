@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jared-thomas/sa3025252",
             "fullRoute": "www.fangraphs.com/players/jared-thomas/sa3025252/stats/batting",
             "dataStats": {
@@ -31,7 +31,7 @@
                     "LastName": "Thomas",
                     "firstLastName": "Jared Thomas",
                     "NameKorean": null,
-                    "Height": 74,
+                    "Height": 73,
                     "Weight": 190,
                     "BirthDate": "2003-07-01T00:00:00",
                     "Bats": "L",
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jared-thomas/sa3025252/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
-                    "HeightDisplay": "6'2\"",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "HeightDisplay": "6'1\"",
                     "Age": 23,
                     "AgeToday": 22,
                     "AgeYears": 22,
-                    "AgeMonths": 7,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "22 years, 7 months, 21 days",
+                    "AgeMonths": 8,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "22 years, 8 months, 0 days",
                     "BirthDateDisplay": "7/1/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 7 months, 21 days"
+                    "AgeDisplay": "22 years, 8 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -379,9 +379,9 @@
                         "sortType": -51
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (AA)",
-                        "ateam": "Rockies (AA)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=8,9,10&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A+)",
+                        "ateam": "Rockies (A+)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 21,
@@ -443,7 +443,7 @@
                         "wBsR": 2.27299,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "5,6,7",
+                        "leagueUrl": "8,9,10",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -858,7 +858,7 @@
                     "LastName": "Thomas",
                     "firstLastName": "Jared Thomas",
                     "NameKorean": null,
-                    "Height": 74,
+                    "Height": 73,
                     "Weight": 190,
                     "BirthDate": "2003-07-01T00:00:00",
                     "Bats": "L",
@@ -874,21 +874,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jared-thomas/sa3025252/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
-                    "HeightDisplay": "6'2\"",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "HeightDisplay": "6'1\"",
                     "Age": 23,
                     "AgeToday": 22,
                     "AgeYears": 22,
-                    "AgeMonths": 7,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "22 years, 7 months, 21 days",
+                    "AgeMonths": 8,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "22 years, 8 months, 0 days",
                     "BirthDateDisplay": "7/1/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 7 months, 21 days"
+                    "AgeDisplay": "22 years, 8 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -902,9 +902,9 @@
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (AA)",
-                        "ateam": "Rockies (AA)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=8,9,10&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A+)",
+                        "ateam": "Rockies (A+)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 21,
@@ -966,7 +966,7 @@
                         "wBsR": 2.27299,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "5,6,7",
+                        "leagueUrl": "8,9,10",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -1328,12 +1328,16 @@
                 "newsRotowire": {
                     "news": {
                         "link": "https://www.rotowire.com/baseball/player/jared-thomas-19544",
-                        "headline": "Strikeouts spike at Double-A",
-                        "news": "Thomas slashed .239/.343/.368 with three home runs, 11 steals, a 13.2 percent walk rate and a 35.2 percent strikeout rate in 43 games for Double-A Hartford.",
-                        "newsdate": "2025-09-12T12:07:57",
-                        "dateDisplay": "9/12/2025"
+                        "headline": "On mend from offseason surgery",
+                        "news": "The Rockies announced Monday that Thomas hasn't been participating in spring training while he recovers from offseason surgery to address a fractured hamate bone in his right wrist, TheDNVR.com reports.",
+                        "newsdate": "2026-02-23T13:15:33",
+                        "dateDisplay": "2/23/2026"
                     },
-                    "injury": null
+                    "injury": {
+                        "playerid": 35048,
+                        "injurytype": "Wrist",
+                        "injurystatus": "Out"
+                    }
                 }
             },
             "dataContractSummary": null,
@@ -1393,6 +1397,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1429,7 +1434,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T12:34:56",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "AA",
                 "position": "LF/CF/RF",
@@ -1437,7 +1442,7 @@
                 "player": "Jared A. Thomas",
                 "notes": "",
                 "handed": "L",
-                "age": "22.6",
+                "age": "22.7",
                 "acquired": "Drafted 2nd Rd (42) '24",
                 "options": "Dec'27",
                 "servicetime": "",
@@ -1448,7 +1453,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 703606,
-                "age1": "22.6",
+                "age1": "22.7",
                 "jnum1": "84",
                 "roster40": "N",
                 "bats": "L",
@@ -2484,7 +2489,7 @@
         "playerNameRoute": "jared-thomas",
         "playerId": "sa3025252"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

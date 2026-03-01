@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/dyan-jorge/sa3018387",
             "fullRoute": "www.fangraphs.com/players/dyan-jorge/sa3018387/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "22 years, 11 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "22 years, 11 months, 11 days",
                     "BirthDateDisplay": "3/18/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 4 days"
+                    "AgeDisplay": "22 years, 11 months, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1323,15 +1323,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "22 years, 11 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "22 years, 11 months, 11 days",
                     "BirthDateDisplay": "3/18/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 4 days"
+                    "AgeDisplay": "22 years, 11 months, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1716,6 +1716,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1724,7 +1725,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-ss",
                 "role": "AA",
                 "position": "SS/2B",
@@ -1732,7 +1733,7 @@
                 "player": "Dyan Jorge",
                 "notes": "",
                 "handed": "R",
-                "age": "22.9",
+                "age": "23.0",
                 "acquired": "Amateur FA (Cuba) Jan'22",
                 "options": "Dec'26",
                 "servicetime": "",
@@ -1743,7 +1744,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 694170,
-                "age1": "22.9",
+                "age1": "23.0",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "R",
@@ -2779,7 +2780,7 @@
         "playerNameRoute": "dyan-jorge",
         "playerId": "sa3018387"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/andy-perez/sa3015857",
             "fullRoute": "www.fangraphs.com/players/andy-perez/sa3015857/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 8,
-                    "AgeDays": 19,
-                    "AgeDisplayOld": "21 years, 8 months, 19 days",
+                    "AgeDays": 26,
+                    "AgeDisplayOld": "21 years, 8 months, 26 days",
                     "BirthDateDisplay": "6/3/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 8 months, 19 days"
+                    "AgeDisplay": "21 years, 8 months, 26 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -425,9 +425,9 @@
                         "sortType": -52
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=8,9,10&qual=y&type=0&season=2024&team=0&players=0\">2024</a>",
-                        "Team": "Rockies (A+)",
-                        "ateam": "Rockies (A+)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2024&team=0&players=0\">2024</a>",
+                        "Team": "Rockies (A)",
+                        "ateam": "Rockies (A)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 20,
@@ -489,7 +489,7 @@
                         "wBsR": 0.15903,
                         "type": -60,
                         "aseason": 2024,
-                        "leagueUrl": "8,9,10",
+                        "leagueUrl": "11,14",
                         "teamId": 0,
                         "sortSeason": 2024,
                         "sortType": -49
@@ -797,6 +797,19 @@
                         "pfxZone%": 0.5,
                         "pfxPace": 21.25,
                         "wBsR": 0,
+                        "AvgBatSpeed": 73.0341,
+                        "FastSwing%": 0,
+                        "SquaredUpContact%": 1,
+                        "SquaredUpSwing%": 1,
+                        "BlastContact%": 1,
+                        "BlastSwing%": 1,
+                        "CompetitiveSwings": 1,
+                        "Tilt": 36.3232,
+                        "AttackAngle": 5.02905,
+                        "AttackDirection": -4.0481,
+                        "IdealAttackAngle%": 1,
+                        "DepthInBox": 28.0968,
+                        "DistanceOffPlate": 28.1578,
                         "type": -40,
                         "aseason": 2025,
                         "leagueUrl": "all",
@@ -1583,15 +1596,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 8,
-                    "AgeDays": 19,
-                    "AgeDisplayOld": "21 years, 8 months, 19 days",
+                    "AgeDays": 26,
+                    "AgeDisplayOld": "21 years, 8 months, 26 days",
                     "BirthDateDisplay": "6/3/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 8 months, 19 days"
+                    "AgeDisplay": "21 years, 8 months, 26 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1946,6 +1959,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1954,7 +1968,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-ss",
                 "role": "AA",
                 "position": "SS/3B",
@@ -3009,7 +3023,7 @@
         "playerNameRoute": "andy-perez",
         "playerId": "sa3015857"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

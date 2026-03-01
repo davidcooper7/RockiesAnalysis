@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/antoine-jean/sa3034614",
             "fullRoute": "www.fangraphs.com/players/antoine-jean/sa3034614/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 25,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 6,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "24 years, 6 months, 21 days",
+                    "AgeMonths": 7,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "24 years, 7 months, 0 days",
                     "BirthDateDisplay": "8/1/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 6 months, 21 days"
+                    "AgeDisplay": "24 years, 7 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -300,16 +300,16 @@
                     "Age": 25,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 6,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "24 years, 6 months, 21 days",
+                    "AgeMonths": 7,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "24 years, 7 months, 0 days",
                     "BirthDateDisplay": "8/1/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 6 months, 21 days"
+                    "AgeDisplay": "24 years, 7 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -386,6 +386,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -422,7 +423,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A",
                 "position": "SP/RP",
@@ -1477,7 +1478,7 @@
         "playerNameRoute": "antoine-jean",
         "playerId": "sa3034614"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

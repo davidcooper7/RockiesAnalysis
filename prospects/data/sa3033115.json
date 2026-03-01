@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/tyler-hampu/sa3033115",
             "fullRoute": "www.fangraphs.com/players/tyler-hampu/sa3033115/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 23,
                     "AgeYears": 23,
                     "AgeMonths": 7,
-                    "AgeDays": 8,
-                    "AgeDisplayOld": "23 years, 7 months, 8 days",
+                    "AgeDays": 15,
+                    "AgeDisplayOld": "23 years, 7 months, 15 days",
                     "BirthDateDisplay": "7/14/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 7 months, 8 days"
+                    "AgeDisplay": "23 years, 7 months, 15 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -250,7 +250,7 @@
                         "Age": 23,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.81129,
+                        "ERA": 6.81084,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -417,15 +417,15 @@
                     "AgeToday": 23,
                     "AgeYears": 23,
                     "AgeMonths": 7,
-                    "AgeDays": 8,
-                    "AgeDisplayOld": "23 years, 7 months, 8 days",
+                    "AgeDays": 15,
+                    "AgeDisplayOld": "23 years, 7 months, 15 days",
                     "BirthDateDisplay": "7/14/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 7 months, 8 days"
+                    "AgeDisplay": "23 years, 7 months, 15 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -600,6 +600,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -636,7 +637,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "A+",
                 "position": "RP",
@@ -1691,7 +1692,7 @@
         "playerNameRoute": "tyler-hampu",
         "playerId": "sa3033115"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

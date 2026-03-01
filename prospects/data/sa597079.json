@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jose-de-la-cruz/sa597079",
             "fullRoute": "www.fangraphs.com/players/jose-de-la-cruz/sa597079/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 33,
                     "AgeYears": 33,
                     "AgeMonths": 8,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "33 years, 8 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "33 years, 8 months, 17 days",
                     "BirthDateDisplay": "6/12/1992",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "33 years, 8 months, 10 days"
+                    "AgeDisplay": "33 years, 8 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -398,15 +398,15 @@
                     "AgeToday": 33,
                     "AgeYears": 33,
                     "AgeMonths": 8,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "33 years, 8 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "33 years, 8 months, 17 days",
                     "BirthDateDisplay": "6/12/1992",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "33 years, 8 months, 10 days"
+                    "AgeDisplay": "33 years, 8 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -643,6 +643,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1655,7 +1656,7 @@
         "playerNameRoute": "jose-de-la-cruz",
         "playerId": "sa597079"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

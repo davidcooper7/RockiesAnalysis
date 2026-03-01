@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/ronaldo-florencio/sa3024274",
             "fullRoute": "www.fangraphs.com/players/ronaldo-florencio/sa3024274/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 6,
-                    "AgeDays": 9,
-                    "AgeDisplayOld": "18 years, 6 months, 9 days",
+                    "AgeDays": 16,
+                    "AgeDisplayOld": "18 years, 6 months, 16 days",
                     "BirthDateDisplay": "8/13/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 6 months, 9 days"
+                    "AgeDisplay": "18 years, 6 months, 16 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -233,7 +233,7 @@
                         "Age": 18,
                         "W": 0,
                         "L": 0,
-                        "ERA": 7.01505,
+                        "ERA": 7.01514,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -256,12 +256,12 @@
                         "K/9": 4.5162,
                         "BB/9": 7.8471,
                         "K/BB": 0.575525,
-                        "H/9": 10.5561,
+                        "H/9": 10.557,
                         "HR/9": 1.564,
-                        "AVG": 0.290358,
-                        "WHIP": 2.0448,
-                        "BABIP": 0.297011,
-                        "LOB%": 0.677709,
+                        "AVG": 0.290382,
+                        "WHIP": 2.0449,
+                        "BABIP": 0.297041,
+                        "LOB%": 0.677727,
                         "FIP": 7.14315,
                         "LD%": 0.204999,
                         "GB%": 0.409005,
@@ -369,15 +369,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 6,
-                    "AgeDays": 9,
-                    "AgeDisplayOld": "18 years, 6 months, 9 days",
+                    "AgeDays": 16,
+                    "AgeDisplayOld": "18 years, 6 months, 16 days",
                     "BirthDateDisplay": "8/13/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 6 months, 9 days"
+                    "AgeDisplay": "18 years, 6 months, 16 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -572,6 +572,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1584,7 +1585,7 @@
         "playerNameRoute": "ronaldo-florencio",
         "playerId": "sa3024274"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

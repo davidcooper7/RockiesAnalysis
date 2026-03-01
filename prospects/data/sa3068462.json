@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/roberto-salas/sa3068462",
             "fullRoute": "www.fangraphs.com/players/roberto-salas/sa3068462/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 5,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "18 years, 5 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "18 years, 5 months, 17 days",
                     "BirthDateDisplay": "9/12/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 5 months, 10 days"
+                    "AgeDisplay": "18 years, 5 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -213,15 +213,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 5,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "18 years, 5 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "18 years, 5 months, 17 days",
                     "BirthDateDisplay": "9/12/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 5 months, 10 days"
+                    "AgeDisplay": "18 years, 5 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -396,6 +396,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -404,7 +405,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "Rk",
                 "position": "SP",
@@ -412,7 +413,7 @@
                 "player": "Roberto Salas",
                 "notes": "",
                 "handed": "R",
-                "age": "18.4",
+                "age": "18.5",
                 "acquired": "Amateur FA (MEX) Jan'25",
                 "options": "Dec'29",
                 "servicetime": "",
@@ -423,7 +424,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 825344,
-                "age1": "18.4",
+                "age1": "18.5",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "R",
@@ -1459,7 +1460,7 @@
         "playerNameRoute": "roberto-salas",
         "playerId": "sa3068462"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/ben-mccabe/sa3022601",
             "fullRoute": "www.fangraphs.com/players/ben-mccabe/sa3022601/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/ben-mccabe/sa3022601/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
                     "HeightDisplay": "5'11\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 0,
-                    "AgeDays": 18,
-                    "AgeDisplayOld": "26 years, 0 months, 18 days",
+                    "AgeDays": 25,
+                    "AgeDisplayOld": "26 years, 0 months, 25 days",
                     "BirthDateDisplay": "2/4/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 18 days"
+                    "AgeDisplay": "26 years, 25 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -496,9 +496,9 @@
                         "sortType": -51
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (AA)",
-                        "ateam": "Rockies (AA)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=8,9,10&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A+)",
+                        "ateam": "Rockies (A+)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 25,
@@ -560,7 +560,7 @@
                         "wBsR": -0.311206,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "5,6,7",
+                        "leagueUrl": "8,9,10",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -1050,21 +1050,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/ben-mccabe/sa3022601/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
                     "HeightDisplay": "5'11\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 0,
-                    "AgeDays": 18,
-                    "AgeDisplayOld": "26 years, 0 months, 18 days",
+                    "AgeDays": 25,
+                    "AgeDisplayOld": "26 years, 0 months, 25 days",
                     "BirthDateDisplay": "2/4/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 18 days"
+                    "AgeDisplay": "26 years, 25 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1078,9 +1078,9 @@
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (AA)",
-                        "ateam": "Rockies (AA)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=8,9,10&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A+)",
+                        "ateam": "Rockies (A+)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 25,
@@ -1142,7 +1142,7 @@
                         "wBsR": -0.311206,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "5,6,7",
+                        "leagueUrl": "8,9,10",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -1257,6 +1257,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1293,7 +1294,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-c",
                 "role": "AA",
                 "position": "C",
@@ -2348,7 +2349,7 @@
         "playerNameRoute": "ben-mccabe",
         "playerId": "sa3022601"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/yeremmy-cabeza/sa3024202",
             "fullRoute": "www.fangraphs.com/players/yeremmy-cabeza/sa3024202/stats/pitching",
             "dataStats": {
@@ -50,18 +50,18 @@
                     "BaseballLevel": "[\"minor\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 22,
-                    "AgeToday": 21,
-                    "AgeYears": 21,
-                    "AgeMonths": 11,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "21 years, 11 months, 21 days",
+                    "AgeToday": 22,
+                    "AgeYears": 22,
+                    "AgeMonths": 0,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "22 years, 0 months, 0 days",
                     "BirthDateDisplay": "3/1/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 11 months, 21 days"
+                    "AgeDisplay": "22 years"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -305,18 +305,18 @@
                     "BaseballLevel": "[\"minor\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 22,
-                    "AgeToday": 21,
-                    "AgeYears": 21,
-                    "AgeMonths": 11,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "21 years, 11 months, 21 days",
+                    "AgeToday": 22,
+                    "AgeYears": 22,
+                    "AgeMonths": 0,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "22 years, 0 months, 0 days",
                     "BirthDateDisplay": "3/1/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 11 months, 21 days"
+                    "AgeDisplay": "22 years"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -511,6 +511,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1523,7 +1524,7 @@
         "playerNameRoute": "yeremmy-cabeza",
         "playerId": "sa3024202"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

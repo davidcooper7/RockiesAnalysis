@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/adam-mckillican/sa3017687",
             "fullRoute": "www.fangraphs.com/players/adam-mckillican/sa3017687/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 28,
                     "AgeYears": 28,
                     "AgeMonths": 1,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "28 years, 1 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "28 years, 1 months, 21 days",
                     "BirthDateDisplay": "1/8/1998",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "28 years, 1 month, 14 days"
+                    "AgeDisplay": "28 years, 1 month, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -681,7 +681,7 @@
                         "Age": 28,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.49621,
+                        "ERA": 5.49576,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -948,15 +948,15 @@
                     "AgeToday": 28,
                     "AgeYears": 28,
                     "AgeMonths": 1,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "28 years, 1 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "28 years, 1 months, 21 days",
                     "BirthDateDisplay": "1/8/1998",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "28 years, 1 month, 14 days"
+                    "AgeDisplay": "28 years, 1 month, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1054,6 +1054,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -2066,7 +2067,7 @@
         "playerNameRoute": "adam-mckillican",
         "playerId": "sa3017687"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

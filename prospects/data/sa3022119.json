@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/eliezer-pena/sa3022119",
             "fullRoute": "www.fangraphs.com/players/eliezer-pena/sa3022119/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 4,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "20 years, 4 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "20 years, 4 months, 21 days",
                     "BirthDateDisplay": "10/8/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 4 months, 14 days"
+                    "AgeDisplay": "20 years, 4 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -606,7 +606,7 @@
                         "Age": 20,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.76584,
+                        "ERA": 6.76665,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -634,7 +634,7 @@
                         "AVG": 0.291596,
                         "WHIP": 1.9298,
                         "BABIP": 0.297632,
-                        "LOB%": 0.673767,
+                        "LOB%": 0.673707,
                         "FIP": 6.82941,
                         "LD%": 0.205019,
                         "GB%": 0.415001,
@@ -802,15 +802,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 4,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "20 years, 4 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "20 years, 4 months, 21 days",
                     "BirthDateDisplay": "10/8/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 4 months, 14 days"
+                    "AgeDisplay": "20 years, 4 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1005,6 +1005,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1013,7 +1014,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "Rk",
                 "position": "SP",
@@ -2068,7 +2069,7 @@
         "playerNameRoute": "eliezer-pena",
         "playerId": "sa3022119"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

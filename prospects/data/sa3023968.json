@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/cristian-arguelles/sa3023968",
             "fullRoute": "www.fangraphs.com/players/cristian-arguelles/sa3023968/stats/batting",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 19,
                     "AgeToday": 18,
                     "AgeYears": 18,
-                    "AgeMonths": 7,
-                    "AgeDays": 23,
-                    "AgeDisplayOld": "18 years, 7 months, 23 days",
+                    "AgeMonths": 8,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "18 years, 8 months, 1 days",
                     "BirthDateDisplay": "6/30/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 7 months, 23 days"
+                    "AgeDisplay": "18 years, 8 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -577,16 +577,16 @@
                     "Age": 19,
                     "AgeToday": 18,
                     "AgeYears": 18,
-                    "AgeMonths": 7,
-                    "AgeDays": 23,
-                    "AgeDisplayOld": "18 years, 7 months, 23 days",
+                    "AgeMonths": 8,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "18 years, 8 months, 1 days",
                     "BirthDateDisplay": "6/30/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 7 months, 23 days"
+                    "AgeDisplay": "18 years, 8 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -892,6 +892,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -900,7 +901,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-21T16:35:03",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "Rk",
                 "position": "CF",
@@ -908,7 +909,7 @@
                 "player": "Cristian Arguelles",
                 "notes": "",
                 "handed": "L",
-                "age": "18.6",
+                "age": "18.7",
                 "acquired": "Amateur FA (VEN) Jan'24",
                 "options": "Dec'28",
                 "servicetime": "",
@@ -919,7 +920,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 821692,
-                "age1": "18.6",
+                "age1": "18.7",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "L",
@@ -1955,7 +1956,7 @@
         "playerNameRoute": "cristian-arguelles",
         "playerId": "sa3023968"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

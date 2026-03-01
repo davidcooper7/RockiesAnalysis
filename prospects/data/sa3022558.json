@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/tevin-tucker/sa3022558",
             "fullRoute": "www.fangraphs.com/players/tevin-tucker/sa3022558/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/tevin-tucker/sa3022558/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 0,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "26 years, 0 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "26 years, 0 months, 19 days",
                     "BirthDateDisplay": "2/10/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 12 days"
+                    "AgeDisplay": "26 years, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -977,21 +977,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/tevin-tucker/sa3022558/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 0,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "26 years, 0 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "26 years, 0 months, 19 days",
                     "BirthDateDisplay": "2/10/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 12 days"
+                    "AgeDisplay": "26 years, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1201,6 +1201,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -2213,7 +2214,7 @@
         "playerNameRoute": "tevin-tucker",
         "playerId": "sa3022558"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

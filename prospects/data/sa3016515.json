@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/bryan-perez/sa3016515",
             "fullRoute": "www.fangraphs.com/players/bryan-perez/sa3016515/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 5,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "22 years, 5 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "22 years, 5 months, 21 days",
                     "BirthDateDisplay": "9/8/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 5 months, 14 days"
+                    "AgeDisplay": "22 years, 5 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -383,7 +383,7 @@
                         "Age": 22,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.33042,
+                        "ERA": 6.33006,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -406,12 +406,12 @@
                         "K/9": 5.0265,
                         "BB/9": 4.9626,
                         "K/BB": 1.01288,
-                        "H/9": 11.1168,
+                        "H/9": 11.1159,
                         "HR/9": 1.448,
-                        "AVG": 0.302042,
-                        "WHIP": 1.7866,
-                        "BABIP": 0.318776,
-                        "LOB%": 0.664231,
+                        "AVG": 0.302017,
+                        "WHIP": 1.7865,
+                        "BABIP": 0.318747,
+                        "LOB%": 0.664273,
                         "FIP": 5.95319,
                         "LD%": 0.211495,
                         "GB%": 0.482912,
@@ -610,15 +610,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 5,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "22 years, 5 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "22 years, 5 months, 21 days",
                     "BirthDateDisplay": "9/8/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 5 months, 14 days"
+                    "AgeDisplay": "22 years, 5 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -789,6 +789,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1801,7 +1802,7 @@
         "playerNameRoute": "bryan-perez",
         "playerId": "sa3016515"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

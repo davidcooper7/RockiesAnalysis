@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/bryson-hammer/sa3022664",
             "fullRoute": "www.fangraphs.com/players/bryson-hammer/sa3022664/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/bryson-hammer/sa3022664/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 4,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "24 years, 4 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "24 years, 4 months, 21 days",
                     "BirthDateDisplay": "10/8/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 4 months, 14 days"
+                    "AgeDisplay": "24 years, 4 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -727,7 +727,7 @@
                         "Age": 24,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.79582,
+                        "ERA": 5.79537,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -755,7 +755,7 @@
                         "AVG": 0.29106,
                         "WHIP": 1.8048,
                         "BABIP": 0.31814,
-                        "LOB%": 0.690983,
+                        "LOB%": 0.691045,
                         "FIP": 5.70557,
                         "LD%": 0.211296,
                         "GB%": 0.485427,
@@ -988,21 +988,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/bryson-hammer/sa3022664/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 4,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "24 years, 4 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "24 years, 4 months, 21 days",
                     "BirthDateDisplay": "10/8/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 4 months, 14 days"
+                    "AgeDisplay": "24 years, 4 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1177,6 +1177,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1213,7 +1214,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "A+",
                 "position": "RP",
@@ -2268,7 +2269,7 @@
         "playerNameRoute": "bryson-hammer",
         "playerId": "sa3022664"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

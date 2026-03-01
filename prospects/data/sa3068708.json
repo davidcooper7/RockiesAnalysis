@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/antony-ventura/sa3068708",
             "fullRoute": "www.fangraphs.com/players/antony-ventura/sa3068708/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 17,
                     "AgeYears": 17,
                     "AgeMonths": 6,
-                    "AgeDays": 17,
-                    "AgeDisplayOld": "17 years, 6 months, 17 days",
+                    "AgeDays": 24,
+                    "AgeDisplayOld": "17 years, 6 months, 24 days",
                     "BirthDateDisplay": "8/5/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "17 years, 6 months, 17 days"
+                    "AgeDisplay": "17 years, 6 months, 24 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -213,15 +213,15 @@
                     "AgeToday": 17,
                     "AgeYears": 17,
                     "AgeMonths": 6,
-                    "AgeDays": 17,
-                    "AgeDisplayOld": "17 years, 6 months, 17 days",
+                    "AgeDays": 24,
+                    "AgeDisplayOld": "17 years, 6 months, 24 days",
                     "BirthDateDisplay": "8/5/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "17 years, 6 months, 17 days"
+                    "AgeDisplay": "17 years, 6 months, 24 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -396,6 +396,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1408,7 +1409,7 @@
         "playerNameRoute": "antony-ventura",
         "playerId": "sa3068708"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

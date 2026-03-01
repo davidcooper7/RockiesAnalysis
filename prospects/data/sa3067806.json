@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/wandi-feliz/sa3067806",
             "fullRoute": "www.fangraphs.com/players/wandi-feliz/sa3067806/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/wandi-feliz/sa3067806/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 18,
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 5,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "18 years, 5 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "18 years, 5 months, 18 days",
                     "BirthDateDisplay": "9/11/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 5 months, 11 days"
+                    "AgeDisplay": "18 years, 5 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -408,26 +408,6 @@
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=286&players=0\">Rockies (DSL)</a>",
-                        "ateam": "Rockies (DSL)",
-                        "AbbName": "COL",
-                        "AbbLevel": "DSL",
-                        "Pos": "DH",
-                        "apos": "DH",
-                        "G": 3,
-                        "GS": 3,
-                        "Inn": 0,
-                        "PO": 0,
-                        "A": 0,
-                        "E": 0,
-                        "DP": 0,
-                        "posnum": 10,
-                        "Type": -55,
-                        "aseason": 2025,
-                        "teamId": -286
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=220&players=0\">Rockies (DSL)</a>",
                         "ateam": "Rockies (DSL)",
                         "AbbName": "COL",
@@ -445,6 +425,26 @@
                         "Type": -55,
                         "aseason": 2025,
                         "teamId": -220
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=286&players=0\">Rockies (DSL)</a>",
+                        "ateam": "Rockies (DSL)",
+                        "AbbName": "COL",
+                        "AbbLevel": "DSL",
+                        "Pos": "DH",
+                        "apos": "DH",
+                        "G": 3,
+                        "GS": 3,
+                        "Inn": 0,
+                        "PO": 0,
+                        "A": 0,
+                        "E": 0,
+                        "DP": 0,
+                        "posnum": 10,
+                        "Type": -55,
+                        "aseason": 2025,
+                        "teamId": -286
                     }
                 ],
                 "fsr": [],
@@ -482,21 +482,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/wandi-feliz/sa3067806/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 18,
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 5,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "18 years, 5 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "18 years, 5 months, 18 days",
                     "BirthDateDisplay": "9/11/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 5 months, 11 days"
+                    "AgeDisplay": "18 years, 5 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -644,26 +644,6 @@
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=286&players=0\">Rockies (DSL)</a>",
-                        "ateam": "Rockies (DSL)",
-                        "AbbName": "COL",
-                        "AbbLevel": "DSL",
-                        "Pos": "DH",
-                        "apos": "DH",
-                        "G": 3,
-                        "GS": 3,
-                        "Inn": 0,
-                        "PO": 0,
-                        "A": 0,
-                        "E": 0,
-                        "DP": 0,
-                        "posnum": 10,
-                        "Type": -55,
-                        "aseason": 2025,
-                        "teamId": -286
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=220&players=0\">Rockies (DSL)</a>",
                         "ateam": "Rockies (DSL)",
                         "AbbName": "COL",
@@ -681,6 +661,26 @@
                         "Type": -55,
                         "aseason": 2025,
                         "teamId": -220
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=286&players=0\">Rockies (DSL)</a>",
+                        "ateam": "Rockies (DSL)",
+                        "AbbName": "COL",
+                        "AbbLevel": "DSL",
+                        "Pos": "DH",
+                        "apos": "DH",
+                        "G": 3,
+                        "GS": 3,
+                        "Inn": 0,
+                        "PO": 0,
+                        "A": 0,
+                        "E": 0,
+                        "DP": 0,
+                        "posnum": 10,
+                        "Type": -55,
+                        "aseason": 2025,
+                        "teamId": -286
                     }
                 ],
                 "positionProfile": {
@@ -766,6 +766,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1778,7 +1779,7 @@
         "playerNameRoute": "wandi-feliz",
         "playerId": "sa3067806"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

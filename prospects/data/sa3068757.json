@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jesus-bello/sa3068757",
             "fullRoute": "www.fangraphs.com/players/jesus-bello/sa3068757/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 17,
                     "AgeYears": 17,
                     "AgeMonths": 9,
-                    "AgeDays": 1,
-                    "AgeDisplayOld": "17 years, 9 months, 1 days",
+                    "AgeDays": 8,
+                    "AgeDisplayOld": "17 years, 9 months, 8 days",
                     "BirthDateDisplay": "5/21/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "17 years, 9 months, 1 day"
+                    "AgeDisplay": "17 years, 9 months, 8 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -288,29 +288,6 @@
                 "fielding": [
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=220&players=0\">Rockies (DSL)</a>",
-                        "ateam": "Rockies (DSL)",
-                        "AbbName": "COL",
-                        "AbbLevel": "DSL",
-                        "Pos": "C",
-                        "apos": "C",
-                        "G": 5,
-                        "GS": 4,
-                        "Inn": 29.200000762939453,
-                        "PO": 23,
-                        "A": 5,
-                        "E": 1,
-                        "DP": 2,
-                        "SB": 7,
-                        "CS": 6,
-                        "PB": 0,
-                        "posnum": 2,
-                        "Type": -55,
-                        "aseason": 2025,
-                        "teamId": -220
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=286&players=0\">Rockies (DSL)</a>",
                         "ateam": "Rockies (DSL)",
                         "AbbName": "COL",
@@ -331,6 +308,29 @@
                         "Type": -55,
                         "aseason": 2025,
                         "teamId": -286
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=220&players=0\">Rockies (DSL)</a>",
+                        "ateam": "Rockies (DSL)",
+                        "AbbName": "COL",
+                        "AbbLevel": "DSL",
+                        "Pos": "C",
+                        "apos": "C",
+                        "G": 5,
+                        "GS": 4,
+                        "Inn": 29.200000762939453,
+                        "PO": 23,
+                        "A": 5,
+                        "E": 1,
+                        "DP": 2,
+                        "SB": 7,
+                        "CS": 6,
+                        "PB": 0,
+                        "posnum": 2,
+                        "Type": -55,
+                        "aseason": 2025,
+                        "teamId": -220
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
@@ -414,15 +414,15 @@
                     "AgeToday": 17,
                     "AgeYears": 17,
                     "AgeMonths": 9,
-                    "AgeDays": 1,
-                    "AgeDisplayOld": "17 years, 9 months, 1 days",
+                    "AgeDays": 8,
+                    "AgeDisplayOld": "17 years, 9 months, 8 days",
                     "BirthDateDisplay": "5/21/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "17 years, 9 months, 1 day"
+                    "AgeDisplay": "17 years, 9 months, 8 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -510,29 +510,6 @@
                 "fielding": [
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=220&players=0\">Rockies (DSL)</a>",
-                        "ateam": "Rockies (DSL)",
-                        "AbbName": "COL",
-                        "AbbLevel": "DSL",
-                        "Pos": "C",
-                        "apos": "C",
-                        "G": 5,
-                        "GS": 4,
-                        "Inn": 29.200000762939453,
-                        "PO": 23,
-                        "A": 5,
-                        "E": 1,
-                        "DP": 2,
-                        "SB": 7,
-                        "CS": 6,
-                        "PB": 0,
-                        "posnum": 2,
-                        "Type": -55,
-                        "aseason": 2025,
-                        "teamId": -220
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=286&players=0\">Rockies (DSL)</a>",
                         "ateam": "Rockies (DSL)",
                         "AbbName": "COL",
@@ -553,6 +530,29 @@
                         "Type": -55,
                         "aseason": 2025,
                         "teamId": -286
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2025&team=220&players=0\">Rockies (DSL)</a>",
+                        "ateam": "Rockies (DSL)",
+                        "AbbName": "COL",
+                        "AbbLevel": "DSL",
+                        "Pos": "C",
+                        "apos": "C",
+                        "G": 5,
+                        "GS": 4,
+                        "Inn": 29.200000762939453,
+                        "PO": 23,
+                        "A": 5,
+                        "E": 1,
+                        "DP": 2,
+                        "SB": 7,
+                        "CS": 6,
+                        "PB": 0,
+                        "posnum": 2,
+                        "Type": -55,
+                        "aseason": 2025,
+                        "teamId": -220
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
@@ -678,6 +678,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1690,7 +1691,7 @@
         "playerNameRoute": "jesus-bello",
         "playerId": "sa3068757"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

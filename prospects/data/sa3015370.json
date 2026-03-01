@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/yujanyer-herrera/sa3015370",
             "fullRoute": "www.fangraphs.com/players/yujanyer-herrera/sa3015370/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 6,
-                    "AgeDays": 5,
-                    "AgeDisplayOld": "22 years, 6 months, 5 days",
+                    "AgeDays": 12,
+                    "AgeDisplayOld": "22 years, 6 months, 12 days",
                     "BirthDateDisplay": "8/17/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 6 months, 5 days"
+                    "AgeDisplay": "22 years, 6 months, 12 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -905,7 +905,7 @@
                         "Age": 22,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.00489,
+                        "ERA": 6.0048,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -928,12 +928,12 @@
                         "K/9": 5.3406,
                         "BB/9": 4.6332,
                         "K/BB": 1.15268,
-                        "H/9": 10.9008,
+                        "H/9": 10.8999,
                         "HR/9": 1.399,
-                        "AVG": 0.297599,
-                        "WHIP": 1.726,
-                        "BABIP": 0.317898,
-                        "LOB%": 0.671848,
+                        "AVG": 0.297575,
+                        "WHIP": 1.7259,
+                        "BABIP": 0.317867,
+                        "LOB%": 0.671826,
                         "FIP": 5.67341,
                         "LD%": 0.211501,
                         "GB%": 0.483918,
@@ -1212,15 +1212,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 6,
-                    "AgeDays": 5,
-                    "AgeDisplayOld": "22 years, 6 months, 5 days",
+                    "AgeDays": 12,
+                    "AgeDisplayOld": "22 years, 6 months, 12 days",
                     "BirthDateDisplay": "8/17/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 6 months, 5 days"
+                    "AgeDisplay": "22 years, 6 months, 12 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1432,6 +1432,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1440,7 +1441,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A+",
                 "position": "SP",
@@ -2495,7 +2496,7 @@
         "playerNameRoute": "yujanyer-herrera",
         "playerId": "sa3015370"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

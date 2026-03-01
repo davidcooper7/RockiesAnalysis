@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/cameron-nelson/sa3038742",
             "fullRoute": "www.fangraphs.com/players/cameron-nelson/sa3038742/stats/batting",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 22,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 8,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "21 years, 8 months, 26 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "21 years, 9 months, 2 days",
                     "BirthDateDisplay": "5/27/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 8 months, 26 days"
+                    "AgeDisplay": "21 years, 9 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -210,16 +210,16 @@
                     "Age": 22,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 8,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "21 years, 8 months, 26 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "21 years, 9 months, 2 days",
                     "BirthDateDisplay": "5/27/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 8 months, 26 days"
+                    "AgeDisplay": "21 years, 9 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -315,6 +315,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -351,7 +352,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T12:34:56",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "A",
                 "position": "CF/RF/LF",
@@ -359,7 +360,7 @@
                 "player": "Cameron Nelson",
                 "notes": "",
                 "handed": "L",
-                "age": "21.7",
+                "age": "21.8",
                 "acquired": "Drafted 5th Rd '25",
                 "options": "Dec'28",
                 "servicetime": "",
@@ -370,7 +371,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 806174,
-                "age1": "21.7",
+                "age1": "21.8",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "L",
@@ -1406,7 +1407,7 @@
         "playerNameRoute": "cameron-nelson",
         "playerId": "sa3038742"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

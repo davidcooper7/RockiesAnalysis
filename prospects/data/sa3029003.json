@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/seth-clausen/sa3029003",
             "fullRoute": "www.fangraphs.com/players/seth-clausen/sa3029003/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/seth-clausen/sa3029003/stats/pitching",
-                    "BaseballLevel": "[\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"college\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 23,
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "22 years, 11 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "22 years, 11 months, 21 days",
                     "BirthDateDisplay": "3/8/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 14 days"
+                    "AgeDisplay": "22 years, 11 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -391,21 +391,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/seth-clausen/sa3029003/stats/pitching",
-                    "BaseballLevel": "[\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"college\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 23,
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "22 years, 11 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "22 years, 11 months, 21 days",
                     "BirthDateDisplay": "3/8/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 14 days"
+                    "AgeDisplay": "22 years, 11 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -580,6 +580,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -616,7 +617,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "A+",
                 "position": "RP",
@@ -1671,7 +1672,7 @@
         "playerNameRoute": "seth-clausen",
         "playerId": "sa3029003"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/kamuel-villar/sa3067803",
             "fullRoute": "www.fangraphs.com/players/kamuel-villar/sa3067803/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 5,
-                    "AgeDays": 17,
-                    "AgeDisplayOld": "18 years, 5 months, 17 days",
+                    "AgeDays": 24,
+                    "AgeDisplayOld": "18 years, 5 months, 24 days",
                     "BirthDateDisplay": "9/5/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 5 months, 17 days"
+                    "AgeDisplay": "18 years, 5 months, 24 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -468,15 +468,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 5,
-                    "AgeDays": 17,
-                    "AgeDisplayOld": "18 years, 5 months, 17 days",
+                    "AgeDays": 24,
+                    "AgeDisplayOld": "18 years, 5 months, 24 days",
                     "BirthDateDisplay": "9/5/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 5 months, 17 days"
+                    "AgeDisplay": "18 years, 5 months, 24 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -801,6 +801,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -809,7 +810,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-ss",
                 "role": "Rk",
                 "position": "SS/2B",
@@ -1864,7 +1865,7 @@
         "playerNameRoute": "kamuel-villar",
         "playerId": "sa3067803"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

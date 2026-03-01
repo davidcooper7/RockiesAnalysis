@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/eriel-dihigo/sa3023927",
             "fullRoute": "www.fangraphs.com/players/eriel-dihigo/sa3023927/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/eriel-dihigo/sa3023927/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'2\"",
                     "Age": 19,
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 3,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "19 years, 3 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "19 years, 3 months, 19 days",
                     "BirthDateDisplay": "11/10/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 3 months, 12 days"
+                    "AgeDisplay": "19 years, 3 months, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -532,21 +532,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/eriel-dihigo/sa3023927/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'2\"",
                     "Age": 19,
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 3,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "19 years, 3 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "19 years, 3 months, 19 days",
                     "BirthDateDisplay": "11/10/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 3 months, 12 days"
+                    "AgeDisplay": "19 years, 3 months, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -812,6 +812,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -820,7 +821,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-3b",
                 "role": "Rk",
                 "position": "3B",
@@ -1875,7 +1876,7 @@
         "playerNameRoute": "eriel-dihigo",
         "playerId": "sa3023927"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

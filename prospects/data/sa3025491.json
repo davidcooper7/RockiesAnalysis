@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/nathan-blasick/sa3025491",
             "fullRoute": "www.fangraphs.com/players/nathan-blasick/sa3025491/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/nathan-blasick/sa3025491/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 25,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 7,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "24 years, 7 months, 27 days",
+                    "AgeMonths": 8,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "24 years, 8 months, 3 days",
                     "BirthDateDisplay": "6/26/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 7 months, 27 days"
+                    "AgeDisplay": "24 years, 8 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -325,7 +325,7 @@
                         "Age": 25,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.33573,
+                        "ERA": 6.33483,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -348,12 +348,12 @@
                         "K/9": 5.9886,
                         "BB/9": 6.4305,
                         "K/BB": 0.931281,
-                        "H/9": 10.5381,
+                        "H/9": 10.5372,
                         "HR/9": 1.372,
-                        "AVG": 0.291146,
-                        "WHIP": 1.8854,
-                        "BABIP": 0.317884,
-                        "LOB%": 0.679794,
+                        "AVG": 0.291121,
+                        "WHIP": 1.8853,
+                        "BABIP": 0.317853,
+                        "LOB%": 0.679775,
                         "FIP": 6.07601,
                         "LD%": 0.211706,
                         "GB%": 0.462351,
@@ -506,21 +506,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/nathan-blasick/sa3025491/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 25,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 7,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "24 years, 7 months, 27 days",
+                    "AgeMonths": 8,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "24 years, 8 months, 3 days",
                     "BirthDateDisplay": "6/26/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 7 months, 27 days"
+                    "AgeDisplay": "24 years, 8 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -715,6 +715,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -751,7 +752,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "A+",
                 "position": "RP",
@@ -1806,7 +1807,7 @@
         "playerNameRoute": "nathan-blasick",
         "playerId": "sa3025491"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

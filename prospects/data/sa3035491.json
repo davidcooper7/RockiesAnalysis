@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/matthew-klein/sa3035491",
             "fullRoute": "www.fangraphs.com/players/matthew-klein/sa3035491/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 4,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "22 years, 4 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "22 years, 4 months, 17 days",
                     "BirthDateDisplay": "10/12/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 4 months, 10 days"
+                    "AgeDisplay": "22 years, 4 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -372,15 +372,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 4,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "22 years, 4 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "22 years, 4 months, 17 days",
                     "BirthDateDisplay": "10/12/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 4 months, 10 days"
+                    "AgeDisplay": "22 years, 4 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -593,6 +593,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -629,7 +630,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-c",
                 "role": "A+",
                 "position": "C/1B",
@@ -1684,7 +1685,7 @@
         "playerNameRoute": "matthew-klein",
         "playerId": "sa3035491"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

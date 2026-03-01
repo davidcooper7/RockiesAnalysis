@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/ismael-luciano/sa3016227",
             "fullRoute": "www.fangraphs.com/players/ismael-luciano/sa3016227/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 18,
-                    "AgeDisplayOld": "22 years, 11 months, 18 days",
+                    "AgeDays": 25,
+                    "AgeDisplayOld": "22 years, 11 months, 25 days",
                     "BirthDateDisplay": "3/4/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 18 days"
+                    "AgeDisplay": "22 years, 11 months, 25 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -756,7 +756,7 @@
                         "Age": 23,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.9228,
+                        "ERA": 6.92253,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -779,12 +779,12 @@
                         "K/9": 4.4307,
                         "BB/9": 5.6925,
                         "K/BB": 0.77834,
-                        "H/9": 11.52,
+                        "H/9": 11.5191,
                         "HR/9": 1.579,
-                        "AVG": 0.30995,
-                        "WHIP": 1.9125,
-                        "BABIP": 0.319055,
-                        "LOB%": 0.658237,
+                        "AVG": 0.309926,
+                        "WHIP": 1.9124,
+                        "BABIP": 0.319026,
+                        "LOB%": 0.658276,
                         "FIP": 6.49021,
                         "LD%": 0.211699,
                         "GB%": 0.462356,
@@ -1043,15 +1043,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 11,
-                    "AgeDays": 18,
-                    "AgeDisplayOld": "22 years, 11 months, 18 days",
+                    "AgeDays": 25,
+                    "AgeDisplayOld": "22 years, 11 months, 25 days",
                     "BirthDateDisplay": "3/4/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 18 days"
+                    "AgeDisplay": "22 years, 11 months, 25 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1317,6 +1317,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1325,7 +1326,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A",
                 "position": "SP/RP",
@@ -2380,7 +2381,7 @@
         "playerNameRoute": "ismael-luciano",
         "playerId": "sa3016227"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

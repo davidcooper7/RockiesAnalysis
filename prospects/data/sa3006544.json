@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/brayan-castillo/sa3006544",
             "fullRoute": "www.fangraphs.com/players/brayan-castillo/sa3006544/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 5,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "25 years, 5 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "25 years, 5 months, 18 days",
                     "BirthDateDisplay": "9/11/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 5 months, 11 days"
+                    "AgeDisplay": "25 years, 5 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -978,7 +978,7 @@
                         "Age": 25,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.34168,
+                        "ERA": 5.34078,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -1006,7 +1006,7 @@
                         "AVG": 0.272092,
                         "WHIP": 1.6014,
                         "BABIP": 0.3121,
-                        "LOB%": 0.695762,
+                        "LOB%": 0.695834,
                         "FIP": 5.11955,
                         "LD%": 0.212143,
                         "GB%": 0.430099,
@@ -1457,15 +1457,15 @@
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 5,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "25 years, 5 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "25 years, 5 months, 18 days",
                     "BirthDateDisplay": "9/11/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 5 months, 11 days"
+                    "AgeDisplay": "25 years, 5 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1768,8 +1768,18 @@
                     }
                 ],
                 "newsRotowire": {
-                    "news": null,
-                    "injury": null
+                    "news": {
+                        "link": "https://www.rotowire.com/baseball/player/brayan-castillo-20558",
+                        "headline": "Shut down with lat injury",
+                        "news": "The Rockies announced Monday that Castillo is dealing with right lat tightness and has been shut down from throwing while undergoing treatment for the injury, TheDNVR.com reports.",
+                        "newsdate": "2026-02-23T13:09:42",
+                        "dateDisplay": "2/23/2026"
+                    },
+                    "injury": {
+                        "playerid": 24276,
+                        "injurytype": "Lat",
+                        "injurystatus": "Out"
+                    }
                 }
             },
             "dataContractSummary": null,
@@ -1860,6 +1870,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": true,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1868,7 +1879,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "AAA",
                 "position": "RP",
@@ -1876,7 +1887,7 @@
                 "player": "Brayan Castillo",
                 "notes": "",
                 "handed": "R",
-                "age": "25.4",
+                "age": "25.5",
                 "acquired": "Amateur FA (DOM) Jul'17",
                 "options": "R5",
                 "servicetime": "",
@@ -1887,7 +1898,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 678899,
-                "age1": "25.4",
+                "age1": "25.5",
                 "jnum1": "80",
                 "roster40": "N",
                 "bats": "R",
@@ -2923,7 +2934,7 @@
         "playerNameRoute": "brayan-castillo",
         "playerId": "sa3006544"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

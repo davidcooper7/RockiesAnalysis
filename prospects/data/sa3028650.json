@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/everett-catlett/sa3028650",
             "fullRoute": "www.fangraphs.com/players/everett-catlett/sa3028650/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/everett-catlett/sa3028650/stats/pitching",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
                     "HeightDisplay": "6'7\"",
                     "Age": 24,
                     "AgeToday": 23,
                     "AgeYears": 23,
                     "AgeMonths": 7,
-                    "AgeDays": 5,
-                    "AgeDisplayOld": "23 years, 7 months, 5 days",
+                    "AgeDays": 12,
+                    "AgeDisplayOld": "23 years, 7 months, 12 days",
                     "BirthDateDisplay": "7/17/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 7 months, 5 days"
+                    "AgeDisplay": "23 years, 7 months, 12 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -445,7 +445,7 @@
                         "Age": 23,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.97249,
+                        "ERA": 5.97213,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -468,12 +468,12 @@
                         "K/9": 5.4342,
                         "BB/9": 4.284,
                         "K/BB": 1.26849,
-                        "H/9": 10.8783,
+                        "H/9": 10.8774,
                         "HR/9": 1.526,
-                        "AVG": 0.295808,
-                        "WHIP": 1.6847,
-                        "BABIP": 0.313681,
-                        "LOB%": 0.676145,
+                        "AVG": 0.295783,
+                        "WHIP": 1.6846,
+                        "BABIP": 0.313651,
+                        "LOB%": 0.676123,
                         "FIP": 5.70646,
                         "LD%": 0.21194,
                         "GB%": 0.437712,
@@ -626,21 +626,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/everett-catlett/sa3028650/stats/pitching",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
                     "HeightDisplay": "6'7\"",
                     "Age": 24,
                     "AgeToday": 23,
                     "AgeYears": 23,
                     "AgeMonths": 7,
-                    "AgeDays": 5,
-                    "AgeDisplayOld": "23 years, 7 months, 5 days",
+                    "AgeDays": 12,
+                    "AgeDisplayOld": "23 years, 7 months, 12 days",
                     "BirthDateDisplay": "7/17/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 7 months, 5 days"
+                    "AgeDisplay": "23 years, 7 months, 12 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -835,6 +835,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -871,7 +872,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A+",
                 "position": "SP",
@@ -1926,7 +1927,7 @@
         "playerNameRoute": "everett-catlett",
         "playerId": "sa3028650"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

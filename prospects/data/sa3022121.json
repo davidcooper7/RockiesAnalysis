@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jhon-medina/sa3022121",
             "fullRoute": "www.fangraphs.com/players/jhon-medina/sa3022121/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 1,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "20 years, 1 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "20 years, 1 months, 20 days",
                     "BirthDateDisplay": "1/9/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 1 month, 13 days"
+                    "AgeDisplay": "20 years, 1 month, 20 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -480,16 +480,16 @@
                         "K/9": 4.1742,
                         "BB/9": 6.6825,
                         "K/BB": 0.624646,
-                        "H/9": 10.6164,
+                        "H/9": 10.6173,
                         "HR/9": 1.369,
-                        "AVG": 0.291879,
-                        "WHIP": 1.9221,
-                        "BABIP": 0.299954,
-                        "LOB%": 0.68625,
+                        "AVG": 0.291904,
+                        "WHIP": 1.9222,
+                        "BABIP": 0.299983,
+                        "LOB%": 0.686268,
                         "FIP": 6.55378,
-                        "LD%": 0.204989,
-                        "GB%": 0.450997,
-                        "FB%": 0.344014,
+                        "LD%": 0.204983,
+                        "GB%": 0.451013,
+                        "FB%": 0.344004,
                         "RAR": 0,
                         "WAR": -0.000381896,
                         "xFIP": 6.46666,
@@ -684,15 +684,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 1,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "20 years, 1 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "20 years, 1 months, 20 days",
                     "BirthDateDisplay": "1/9/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 1 month, 13 days"
+                    "AgeDisplay": "20 years, 1 month, 20 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -887,6 +887,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -895,7 +896,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "Rk",
                 "position": "SP",
@@ -1950,7 +1951,7 @@
         "playerNameRoute": "jhon-medina",
         "playerId": "sa3022121"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

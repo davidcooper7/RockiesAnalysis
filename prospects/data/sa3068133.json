@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/kevin-martinez/sa3068133",
             "fullRoute": "www.fangraphs.com/players/kevin-martinez/sa3068133/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/kevin-martinez/sa3068133/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 18,
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 4,
-                    "AgeDays": 3,
-                    "AgeDisplayOld": "18 years, 4 months, 3 days",
+                    "AgeDays": 10,
+                    "AgeDisplayOld": "18 years, 4 months, 10 days",
                     "BirthDateDisplay": "10/19/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 4 months, 3 days"
+                    "AgeDisplay": "18 years, 4 months, 10 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -158,7 +158,7 @@
                         "Age": 18,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.85125,
+                        "ERA": 6.85206,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -186,7 +186,7 @@
                         "AVG": 0.29607,
                         "WHIP": 1.9072,
                         "BABIP": 0.298064,
-                        "LOB%": 0.669359,
+                        "LOB%": 0.669298,
                         "FIP": 6.84654,
                         "LD%": 0.204993,
                         "GB%": 0.406,
@@ -268,21 +268,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/kevin-martinez/sa3068133/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 18,
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 4,
-                    "AgeDays": 3,
-                    "AgeDisplayOld": "18 years, 4 months, 3 days",
+                    "AgeDays": 10,
+                    "AgeDisplayOld": "18 years, 4 months, 10 days",
                     "BirthDateDisplay": "10/19/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 4 months, 3 days"
+                    "AgeDisplay": "18 years, 4 months, 10 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -457,6 +457,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -465,7 +466,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "Rk",
                 "position": "SP",
@@ -473,7 +474,7 @@
                 "player": "Kevin Martinez",
                 "notes": "",
                 "handed": "R",
-                "age": "18.3",
+                "age": "18.4",
                 "acquired": "Amateur FA (DOM) Jan'25",
                 "options": "Dec'29",
                 "servicetime": "",
@@ -484,7 +485,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 830427,
-                "age1": "18.3",
+                "age1": "18.4",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "R",
@@ -1520,7 +1521,7 @@
         "playerNameRoute": "kevin-martinez",
         "playerId": "sa3068133"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

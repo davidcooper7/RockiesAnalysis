@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/dariel-garcia/sa3024480",
             "fullRoute": "www.fangraphs.com/players/dariel-garcia/sa3024480/stats/batting",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 19,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 2,
-                    "AgeDays": 25,
-                    "AgeDisplayOld": "19 years, 2 months, 25 days",
+                    "AgeMonths": 3,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "19 years, 3 months, 1 days",
                     "BirthDateDisplay": "11/28/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 2 months, 25 days"
+                    "AgeDisplay": "19 years, 3 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -597,16 +597,16 @@
                     "Age": 19,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 2,
-                    "AgeDays": 25,
-                    "AgeDisplayOld": "19 years, 2 months, 25 days",
+                    "AgeMonths": 3,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "19 years, 3 months, 1 days",
                     "BirthDateDisplay": "11/28/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 2 months, 25 days"
+                    "AgeDisplay": "19 years, 3 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1056,6 +1056,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1064,7 +1065,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-2b",
                 "role": "Rk",
                 "position": "2B/LF/CF",
@@ -1072,7 +1073,7 @@
                 "player": "Dariel Garcia",
                 "notes": "",
                 "handed": "S",
-                "age": "19.2",
+                "age": "19.3",
                 "acquired": "Amateur FA (DOM) Jan'24",
                 "options": "Dec'28",
                 "servicetime": "",
@@ -1083,7 +1084,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 821761,
-                "age1": "19.2",
+                "age1": "19.3",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "S",
@@ -2119,7 +2120,7 @@
         "playerNameRoute": "dariel-garcia",
         "playerId": "sa3024480"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

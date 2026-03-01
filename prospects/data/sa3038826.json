@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/austin-newton/sa3038826",
             "fullRoute": "www.fangraphs.com/players/austin-newton/sa3038826/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 22,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 9,
-                    "AgeDays": 24,
-                    "AgeDisplayOld": "21 years, 9 months, 24 days",
+                    "AgeMonths": 10,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "21 years, 10 months, 1 days",
                     "BirthDateDisplay": "4/29/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 9 months, 24 days"
+                    "AgeDisplay": "21 years, 10 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -254,16 +254,16 @@
                     "Age": 22,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 9,
-                    "AgeDays": 24,
-                    "AgeDisplayOld": "21 years, 9 months, 24 days",
+                    "AgeMonths": 10,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "21 years, 10 months, 1 days",
                     "BirthDateDisplay": "4/29/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 9 months, 24 days"
+                    "AgeDisplay": "21 years, 10 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -340,6 +340,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -376,7 +377,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A",
                 "position": "SP",
@@ -1431,7 +1432,7 @@
         "playerNameRoute": "austin-newton",
         "playerId": "sa3038826"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

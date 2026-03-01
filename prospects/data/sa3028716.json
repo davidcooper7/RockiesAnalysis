@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/tyrelle-chadwick/sa3028716",
             "fullRoute": "www.fangraphs.com/players/tyrelle-chadwick/sa3028716/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 8,
-                    "AgeDays": 0,
-                    "AgeDisplayOld": "22 years, 8 months, 0 days",
+                    "AgeDays": 7,
+                    "AgeDisplayOld": "22 years, 8 months, 7 days",
                     "BirthDateDisplay": "6/22/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 8 months"
+                    "AgeDisplay": "22 years, 8 months, 7 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -255,15 +255,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 8,
-                    "AgeDays": 0,
-                    "AgeDisplayOld": "22 years, 8 months, 0 days",
+                    "AgeDays": 7,
+                    "AgeDisplayOld": "22 years, 8 months, 7 days",
                     "BirthDateDisplay": "6/22/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 8 months"
+                    "AgeDisplay": "22 years, 8 months, 7 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -340,6 +340,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1380,7 +1381,7 @@
         "playerNameRoute": "tyrelle-chadwick",
         "playerId": "sa3028716"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

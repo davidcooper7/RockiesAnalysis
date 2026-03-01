@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/fisher-jameson/sa3034551",
             "fullRoute": "www.fangraphs.com/players/fisher-jameson/sa3034551/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 9,
-                    "AgeDays": 17,
-                    "AgeDisplayOld": "22 years, 9 months, 17 days",
+                    "AgeDays": 24,
+                    "AgeDisplayOld": "22 years, 9 months, 24 days",
                     "BirthDateDisplay": "5/5/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 9 months, 17 days"
+                    "AgeDisplay": "22 years, 9 months, 24 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -296,7 +296,7 @@
                         "Age": 23,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.09039,
+                        "ERA": 6.08994,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -463,15 +463,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 9,
-                    "AgeDays": 17,
-                    "AgeDisplayOld": "22 years, 9 months, 17 days",
+                    "AgeDays": 24,
+                    "AgeDisplayOld": "22 years, 9 months, 24 days",
                     "BirthDateDisplay": "5/5/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 9 months, 17 days"
+                    "AgeDisplay": "22 years, 9 months, 24 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -646,6 +646,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -682,7 +683,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "A+",
                 "position": "RP",
@@ -1737,7 +1738,7 @@
         "playerNameRoute": "fisher-jameson",
         "playerId": "sa3034551"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

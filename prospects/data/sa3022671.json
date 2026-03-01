@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/braylen-wimmer/sa3022671",
             "fullRoute": "www.fangraphs.com/players/braylen-wimmer/sa3022671/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/braylen-wimmer/sa3022671/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 25,
                     "AgeToday": 25,
                     "AgeYears": 25,
-                    "AgeMonths": 1,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "25 years, 1 months, 26 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "25 years, 2 months, 2 days",
                     "BirthDateDisplay": "12/27/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 1 month, 26 days"
+                    "AgeDisplay": "25 years, 2 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -654,6 +654,20 @@
                         "pfxZone%": 0.25,
                         "pfxPace": 19.6667,
                         "wBsR": -0.00534397,
+                        "AvgBatSpeed": 70.8716,
+                        "FastSwing%": 0,
+                        "SquaredUpContact%": 0,
+                        "SquaredUpSwing%": 0,
+                        "BlastContact%": 0,
+                        "BlastSwing%": 0,
+                        "Swords": 0,
+                        "CompetitiveSwings": 3,
+                        "Tilt": 40.1334,
+                        "AttackAngle": 15.4885,
+                        "AttackDirection": 1.77292,
+                        "IdealAttackAngle%": 0.666667,
+                        "DepthInBox": 31.4785,
+                        "DistanceOffPlate": 29.5729,
                         "type": -40,
                         "aseason": 2025,
                         "leagueUrl": "all",
@@ -1354,21 +1368,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/braylen-wimmer/sa3022671/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'3\"",
                     "Age": 25,
                     "AgeToday": 25,
                     "AgeYears": 25,
-                    "AgeMonths": 1,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "25 years, 1 months, 26 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "25 years, 2 months, 2 days",
                     "BirthDateDisplay": "12/27/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 1 month, 26 days"
+                    "AgeDisplay": "25 years, 2 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1674,6 +1688,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1710,7 +1725,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T11:59:32",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "AAA",
                 "position": "LF/2B/3B",
@@ -2765,7 +2780,7 @@
         "playerNameRoute": "braylen-wimmer",
         "playerId": "sa3022671"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

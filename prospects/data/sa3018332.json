@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/luichi-casilla/sa3018332",
             "fullRoute": "www.fangraphs.com/players/luichi-casilla/sa3018332/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 1,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "21 years, 1 months, 27 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "21 years, 2 months, 3 days",
                     "BirthDateDisplay": "12/26/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 1 month, 27 days"
+                    "AgeDisplay": "21 years, 2 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -308,7 +308,7 @@
                         "Age": 21,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.26364,
+                        "ERA": 6.264,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -331,12 +331,12 @@
                         "K/9": 4.7754,
                         "BB/9": 7.1622,
                         "K/BB": 0.66675,
-                        "H/9": 10.3203,
+                        "H/9": 10.3212,
                         "HR/9": 1.324,
-                        "AVG": 0.28626,
-                        "WHIP": 1.9425,
-                        "BABIP": 0.300349,
-                        "LOB%": 0.691143,
+                        "AVG": 0.286285,
+                        "WHIP": 1.9426,
+                        "BABIP": 0.300379,
+                        "LOB%": 0.691161,
                         "FIP": 6.51898,
                         "LD%": 0.204807,
                         "GB%": 0.449548,
@@ -514,16 +514,16 @@
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
-                    "AgeMonths": 1,
-                    "AgeDays": 27,
-                    "AgeDisplayOld": "21 years, 1 months, 27 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 3,
+                    "AgeDisplayOld": "21 years, 2 months, 3 days",
                     "BirthDateDisplay": "12/26/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 1 month, 27 days"
+                    "AgeDisplay": "21 years, 2 months, 3 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -731,6 +731,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -739,7 +740,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "Rk",
                 "position": "SP",
@@ -1794,7 +1795,7 @@
         "playerNameRoute": "luichi-casilla",
         "playerId": "sa3018332"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

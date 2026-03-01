@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/james-obertop/sa3067392",
             "fullRoute": "www.fangraphs.com/players/james-obertop/sa3067392/stats/batting",
             "dataStats": {
@@ -31,7 +31,7 @@
                     "LastName": "Obertop",
                     "firstLastName": "Jimmy Obertop",
                     "NameKorean": null,
-                    "Height": 74,
+                    "Height": 73,
                     "Weight": 230,
                     "BirthDate": "2000-06-12T00:00:00",
                     "Bats": "R",
@@ -47,28 +47,28 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/james-obertop/sa3067392/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
-                    "HeightDisplay": "6'2\"",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "HeightDisplay": "6'1\"",
                     "Age": 26,
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 8,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "25 years, 8 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "25 years, 8 months, 17 days",
                     "BirthDateDisplay": "6/12/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 8 months, 10 days"
+                    "AgeDisplay": "25 years, 8 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
                     "MLB_FullName": "Colorado Rockies",
                     "MLB_ShortName": "Rockies",
                     "MLB_AbbName": "COL",
-                    "MiLB_FullName": "Spokane Indians",
+                    "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
                     "llevel": "A+"
@@ -285,9 +285,9 @@
                         "sortType": -52
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (CPX)",
-                        "ateam": "Rockies (CPX)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A)",
+                        "ateam": "Rockies (A)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 25,
@@ -349,7 +349,7 @@
                         "wBsR": -0.0758064,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "all",
+                        "leagueUrl": "11,14",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -683,7 +683,7 @@
                     "LastName": "Obertop",
                     "firstLastName": "Jimmy Obertop",
                     "NameKorean": null,
-                    "Height": 74,
+                    "Height": 73,
                     "Weight": 230,
                     "BirthDate": "2000-06-12T00:00:00",
                     "Bats": "R",
@@ -699,37 +699,37 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/james-obertop/sa3067392/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
-                    "HeightDisplay": "6'2\"",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "HeightDisplay": "6'1\"",
                     "Age": 26,
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 8,
-                    "AgeDays": 10,
-                    "AgeDisplayOld": "25 years, 8 months, 10 days",
+                    "AgeDays": 17,
+                    "AgeDisplayOld": "25 years, 8 months, 17 days",
                     "BirthDateDisplay": "6/12/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 8 months, 10 days"
+                    "AgeDisplay": "25 years, 8 months, 17 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
                     "MLB_FullName": "Colorado Rockies",
                     "MLB_ShortName": "Rockies",
                     "MLB_AbbName": "COL",
-                    "MiLB_FullName": "Spokane Indians",
+                    "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
                     "llevel": "A+"
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (CPX)",
-                        "ateam": "Rockies (CPX)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A)",
+                        "ateam": "Rockies (A)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 25,
@@ -791,7 +791,7 @@
                         "wBsR": -0.0758064,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "all",
+                        "leagueUrl": "11,14",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -1072,6 +1072,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -2084,7 +2085,7 @@
         "playerNameRoute": "james-obertop",
         "playerId": "sa3067392"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

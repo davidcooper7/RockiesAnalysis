@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/hunter-omlid/sa3025589",
             "fullRoute": "www.fangraphs.com/players/hunter-omlid/sa3025589/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 26,
                     "AgeToday": 25,
                     "AgeYears": 25,
-                    "AgeMonths": 8,
-                    "AgeDays": 22,
-                    "AgeDisplayOld": "25 years, 8 months, 22 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "25 years, 9 months, 1 days",
                     "BirthDateDisplay": "5/31/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 8 months, 22 days"
+                    "AgeDisplay": "25 years, 9 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -371,7 +371,7 @@
                         "Age": 26,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.47865,
+                        "ERA": 6.4782,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -557,16 +557,16 @@
                     "Age": 26,
                     "AgeToday": 25,
                     "AgeYears": 25,
-                    "AgeMonths": 8,
-                    "AgeDays": 22,
-                    "AgeDisplayOld": "25 years, 8 months, 22 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "25 years, 9 months, 1 days",
                     "BirthDateDisplay": "5/31/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 8 months, 22 days"
+                    "AgeDisplay": "25 years, 9 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -761,6 +761,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -797,7 +798,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "AA",
                 "position": "RP",
@@ -1852,7 +1853,7 @@
         "playerNameRoute": "hunter-omlid",
         "playerId": "sa3025589"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/kevin-tejada/sa3022046",
             "fullRoute": "www.fangraphs.com/players/kevin-tejada/sa3022046/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 9,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "20 years, 9 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "20 years, 9 months, 21 days",
                     "BirthDateDisplay": "5/8/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 9 months, 14 days"
+                    "AgeDisplay": "20 years, 9 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -480,12 +480,12 @@
                         "K/9": 4.518,
                         "BB/9": 8.2188,
                         "K/BB": 0.549715,
-                        "H/9": 10.5219,
+                        "H/9": 10.5228,
                         "HR/9": 1.557,
-                        "AVG": 0.289654,
-                        "WHIP": 2.0823,
-                        "BABIP": 0.296353,
-                        "LOB%": 0.678115,
+                        "AVG": 0.289678,
+                        "WHIP": 2.0824,
+                        "BABIP": 0.296382,
+                        "LOB%": 0.678133,
                         "FIP": 7.27154,
                         "LD%": 0.204993,
                         "GB%": 0.402999,
@@ -633,15 +633,15 @@
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 9,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "20 years, 9 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "20 years, 9 months, 21 days",
                     "BirthDateDisplay": "5/8/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 9 months, 14 days"
+                    "AgeDisplay": "20 years, 9 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -816,6 +816,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1828,7 +1829,7 @@
         "playerNameRoute": "kevin-tejada",
         "playerId": "sa3022046"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

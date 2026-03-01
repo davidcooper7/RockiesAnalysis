@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jamison-hobson/sa3022610",
             "fullRoute": "www.fangraphs.com/players/jamison-hobson/sa3022610/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jamison-hobson/sa3022610/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 0,
-                    "AgeDays": 29,
-                    "AgeDisplayOld": "24 years, 0 months, 29 days",
+                    "AgeMonths": 1,
+                    "AgeDays": 5,
+                    "AgeDisplayOld": "24 years, 1 months, 5 days",
                     "BirthDateDisplay": "1/24/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 29 days"
+                    "AgeDisplay": "24 years, 1 month, 5 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -366,6 +366,7 @@
                         "pfxZone%": 0.4,
                         "pfxPace": 18.5,
                         "wBsR": -0.0106879,
+                        "CompetitiveSwings": 0,
                         "type": -40,
                         "aseason": 2025,
                         "leagueUrl": "all",
@@ -906,21 +907,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jamison-hobson/sa3022610/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 0,
-                    "AgeDays": 29,
-                    "AgeDisplayOld": "24 years, 0 months, 29 days",
+                    "AgeMonths": 1,
+                    "AgeDays": 5,
+                    "AgeDisplayOld": "24 years, 1 months, 5 days",
                     "BirthDateDisplay": "1/24/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 29 days"
+                    "AgeDisplay": "24 years, 1 month, 5 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1146,6 +1147,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1182,7 +1184,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "A+",
                 "position": "CF/RF/LF",
@@ -2237,7 +2239,7 @@
         "playerNameRoute": "jamison-hobson",
         "playerId": "sa3022610"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

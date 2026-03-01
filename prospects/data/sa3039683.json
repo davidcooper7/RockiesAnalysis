@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/blake-penso/sa3039683",
             "fullRoute": "www.fangraphs.com/players/blake-penso/sa3039683/stats/batting",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 1,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "24 years, 1 months, 26 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "24 years, 2 months, 2 days",
                     "BirthDateDisplay": "12/27/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 1 month, 26 days"
+                    "AgeDisplay": "24 years, 2 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": null,
@@ -304,16 +304,16 @@
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 1,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "24 years, 1 months, 26 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "24 years, 2 months, 2 days",
                     "BirthDateDisplay": "12/27/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 1 month, 26 days"
+                    "AgeDisplay": "24 years, 2 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": null,
@@ -409,6 +409,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1421,7 +1422,7 @@
         "playerNameRoute": "blake-penso",
         "playerId": "sa3039683"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

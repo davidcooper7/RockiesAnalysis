@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/tommy-hopfe/sa3025593",
             "fullRoute": "www.fangraphs.com/players/tommy-hopfe/sa3025593/stats/batting",
             "dataStats": {
@@ -53,22 +53,22 @@
                     "AgeToday": 23,
                     "AgeYears": 23,
                     "AgeMonths": 4,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "23 years, 4 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "23 years, 4 months, 18 days",
                     "BirthDateDisplay": "10/11/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 4 months, 11 days"
+                    "AgeDisplay": "23 years, 4 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
                     "MLB_FullName": "Colorado Rockies",
                     "MLB_ShortName": "Rockies",
                     "MLB_AbbName": "COL",
-                    "MiLB_FullName": "Spokane Indians",
+                    "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
                     "llevel": "A+"
@@ -496,9 +496,9 @@
                         "sortType": -52
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (A)",
-                        "ateam": "Rockies (A)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (CPX)",
+                        "ateam": "Rockies (CPX)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 22,
@@ -560,7 +560,7 @@
                         "wBsR": -0.599806,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "11,14",
+                        "leagueUrl": "all",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -1164,31 +1164,31 @@
                     "AgeToday": 23,
                     "AgeYears": 23,
                     "AgeMonths": 4,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "23 years, 4 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "23 years, 4 months, 18 days",
                     "BirthDateDisplay": "10/11/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 4 months, 11 days"
+                    "AgeDisplay": "23 years, 4 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
                     "MLB_FullName": "Colorado Rockies",
                     "MLB_ShortName": "Rockies",
                     "MLB_AbbName": "COL",
-                    "MiLB_FullName": "Spokane Indians",
+                    "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
                     "llevel": "A+"
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (A)",
-                        "ateam": "Rockies (A)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (CPX)",
+                        "ateam": "Rockies (CPX)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 22,
@@ -1250,7 +1250,7 @@
                         "wBsR": -0.599806,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "11,14",
+                        "leagueUrl": "all",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -1602,6 +1602,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1638,7 +1639,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "A+",
                 "position": "LF/2B/CF",
@@ -2693,7 +2694,7 @@
         "playerNameRoute": "tommy-hopfe",
         "playerId": "sa3025593"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/efrain-cubilla/sa3024289",
             "fullRoute": "www.fangraphs.com/players/efrain-cubilla/sa3024289/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 0,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "21 years, 0 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "21 years, 0 months, 11 days",
                     "BirthDateDisplay": "2/18/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 4 days"
+                    "AgeDisplay": "21 years, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -233,7 +233,7 @@
                         "Age": 21,
                         "W": 0,
                         "L": 0,
-                        "ERA": 7.18731,
+                        "ERA": 7.18776,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -256,12 +256,12 @@
                         "K/9": 4.2237,
                         "BB/9": 8.1891,
                         "K/BB": 0.515771,
-                        "H/9": 10.7046,
+                        "H/9": 10.7055,
                         "HR/9": 1.553,
-                        "AVG": 0.293563,
-                        "WHIP": 2.0993,
-                        "BABIP": 0.298217,
-                        "LOB%": 0.675989,
+                        "AVG": 0.293588,
+                        "WHIP": 2.0994,
+                        "BABIP": 0.298247,
+                        "LOB%": 0.676007,
                         "FIP": 7.31496,
                         "LD%": 0.204999,
                         "GB%": 0.411007,
@@ -420,15 +420,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 0,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "21 years, 0 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "21 years, 0 months, 11 days",
                     "BirthDateDisplay": "2/18/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 4 days"
+                    "AgeDisplay": "21 years, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -623,6 +623,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1635,7 +1636,7 @@
         "playerNameRoute": "efrain-cubilla",
         "playerId": "sa3024289"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

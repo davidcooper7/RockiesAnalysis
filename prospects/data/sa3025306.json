@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/justin-loer/sa3025306",
             "fullRoute": "www.fangraphs.com/players/justin-loer/sa3025306/stats/pitching",
             "dataStats": {
@@ -50,18 +50,18 @@
                     "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'5\"",
                     "Age": 23,
-                    "AgeToday": 22,
-                    "AgeYears": 22,
-                    "AgeMonths": 11,
-                    "AgeDays": 28,
-                    "AgeDisplayOld": "22 years, 11 months, 28 days",
+                    "AgeToday": 23,
+                    "AgeYears": 23,
+                    "AgeMonths": 0,
+                    "AgeDays": 4,
+                    "AgeDisplayOld": "23 years, 0 months, 4 days",
                     "BirthDateDisplay": "2/25/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 28 days"
+                    "AgeDisplay": "23 years, 4 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -371,7 +371,7 @@
                         "Age": 23,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.82245,
+                        "ERA": 6.82155,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -394,12 +394,12 @@
                         "K/9": 4.8159,
                         "BB/9": 6.8328,
                         "K/BB": 0.704821,
-                        "H/9": 11.0601,
+                        "H/9": 11.0592,
                         "HR/9": 1.492,
-                        "AVG": 0.301068,
-                        "WHIP": 1.9881,
-                        "BABIP": 0.314447,
-                        "LOB%": 0.674939,
+                        "AVG": 0.301044,
+                        "WHIP": 1.988,
+                        "BABIP": 0.314418,
+                        "LOB%": 0.674977,
                         "FIP": 6.64465,
                         "LD%": 0.212144,
                         "GB%": 0.435125,
@@ -555,18 +555,18 @@
                     "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'5\"",
                     "Age": 23,
-                    "AgeToday": 22,
-                    "AgeYears": 22,
-                    "AgeMonths": 11,
-                    "AgeDays": 28,
-                    "AgeDisplayOld": "22 years, 11 months, 28 days",
+                    "AgeToday": 23,
+                    "AgeYears": 23,
+                    "AgeMonths": 0,
+                    "AgeDays": 4,
+                    "AgeDisplayOld": "23 years, 0 months, 4 days",
                     "BirthDateDisplay": "2/25/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 11 months, 28 days"
+                    "AgeDisplay": "23 years, 4 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -761,6 +761,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1801,7 +1802,7 @@
         "playerNameRoute": "justin-loer",
         "playerId": "sa3025306"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

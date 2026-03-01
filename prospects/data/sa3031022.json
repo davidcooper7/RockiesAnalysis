@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/alan-espinal/sa3031022",
             "fullRoute": "www.fangraphs.com/players/alan-espinal/sa3031022/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/alan-espinal/sa3031022/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 1,
-                    "AgeDays": 6,
-                    "AgeDisplayOld": "24 years, 1 months, 6 days",
+                    "AgeDays": 13,
+                    "AgeDisplayOld": "24 years, 1 months, 13 days",
                     "BirthDateDisplay": "1/16/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 1 month, 6 days"
+                    "AgeDisplay": "24 years, 1 month, 13 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -511,21 +511,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/alan-espinal/sa3031022/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 1,
-                    "AgeDays": 6,
-                    "AgeDisplayOld": "24 years, 1 months, 6 days",
+                    "AgeDays": 13,
+                    "AgeDisplayOld": "24 years, 1 months, 13 days",
                     "BirthDateDisplay": "1/16/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 1 month, 6 days"
+                    "AgeDisplay": "24 years, 1 month, 13 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -718,6 +718,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -754,7 +755,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-c",
                 "role": "A+",
                 "position": "C",
@@ -1809,7 +1810,7 @@
         "playerNameRoute": "alan-espinal",
         "playerId": "sa3031022"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

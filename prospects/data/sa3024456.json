@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/andres-herrera/sa3024456",
             "fullRoute": "www.fangraphs.com/players/andres-herrera/sa3024456/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 8,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "19 years, 8 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "19 years, 8 months, 19 days",
                     "BirthDateDisplay": "6/10/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 8 months, 12 days"
+                    "AgeDisplay": "19 years, 8 months, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -256,12 +256,12 @@
                         "K/9": 4.2291,
                         "BB/9": 9.3726,
                         "K/BB": 0.45122,
-                        "H/9": 10.7271,
+                        "H/9": 10.728,
                         "HR/9": 1.623,
-                        "AVG": 0.294115,
-                        "WHIP": 2.2333,
-                        "BABIP": 0.297321,
-                        "LOB%": 0.671485,
+                        "AVG": 0.294139,
+                        "WHIP": 2.2334,
+                        "BABIP": 0.297351,
+                        "LOB%": 0.671502,
                         "FIP": 7.82317,
                         "LD%": 0.205,
                         "GB%": 0.393997,
@@ -369,15 +369,15 @@
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 8,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "19 years, 8 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "19 years, 8 months, 19 days",
                     "BirthDateDisplay": "6/10/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 8 months, 12 days"
+                    "AgeDisplay": "19 years, 8 months, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -572,6 +572,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1584,7 +1585,7 @@
         "playerNameRoute": "andres-herrera",
         "playerId": "sa3024456"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

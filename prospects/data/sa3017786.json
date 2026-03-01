@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/thomas-mcgowan/sa3017786",
             "fullRoute": "www.fangraphs.com/players/thomas-mcgowan/sa3017786/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/thomas-mcgowan/sa3017786/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 26,
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 11,
-                    "AgeDays": 2,
-                    "AgeDisplayOld": "25 years, 11 months, 2 days",
+                    "AgeDays": 9,
+                    "AgeDisplayOld": "25 years, 11 months, 9 days",
                     "BirthDateDisplay": "3/20/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 11 months, 2 days"
+                    "AgeDisplay": "25 years, 11 months, 9 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1163,7 +1163,7 @@
                         "Age": 26,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.57163,
+                        "ERA": 5.57082,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -1191,7 +1191,7 @@
                         "AVG": 0.278771,
                         "WHIP": 1.6387,
                         "BABIP": 0.310391,
-                        "LOB%": 0.69094,
+                        "LOB%": 0.691011,
                         "FIP": 5.37378,
                         "LD%": 0.212129,
                         "GB%": 0.429119,
@@ -1656,21 +1656,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/thomas-mcgowan/sa3017786/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"college\",\"minor\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 26,
                     "AgeToday": 25,
                     "AgeYears": 25,
                     "AgeMonths": 11,
-                    "AgeDays": 2,
-                    "AgeDisplayOld": "25 years, 11 months, 2 days",
+                    "AgeDays": 9,
+                    "AgeDisplayOld": "25 years, 11 months, 9 days",
                     "BirthDateDisplay": "3/20/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "25 years, 11 months, 2 days"
+                    "AgeDisplay": "25 years, 11 months, 9 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1988,6 +1988,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": true,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -2024,7 +2025,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "AAA",
                 "position": "RP",
@@ -3079,7 +3080,7 @@
         "playerNameRoute": "thomas-mcgowan",
         "playerId": "sa3017786"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

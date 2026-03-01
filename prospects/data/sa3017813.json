@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jarrod-cande/sa3017813",
             "fullRoute": "www.fangraphs.com/players/jarrod-cande/sa3017813/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 6,
-                    "AgeDays": 6,
-                    "AgeDisplayOld": "26 years, 6 months, 6 days",
+                    "AgeDays": 13,
+                    "AgeDisplayOld": "26 years, 6 months, 13 days",
                     "BirthDateDisplay": "8/16/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 6 months, 6 days"
+                    "AgeDisplay": "26 years, 6 months, 13 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -413,12 +413,12 @@
                         "BABIP": 0.302905,
                         "LOB%": 0.671299,
                         "FIP": 5.77713,
-                        "LD%": 0.212576,
-                        "GB%": 0.372569,
-                        "FB%": 0.414854,
+                        "LD%": 0.212583,
+                        "GB%": 0.37258,
+                        "FB%": 0.414837,
                         "RAR": 0,
                         "WAR": -0.000381896,
-                        "xFIP": 5.28977,
+                        "xFIP": 5.28961,
                         "HLD": 0,
                         "K%": 0.145917,
                         "BB%": 0.0860589,
@@ -610,15 +610,15 @@
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 6,
-                    "AgeDays": 6,
-                    "AgeDisplayOld": "26 years, 6 months, 6 days",
+                    "AgeDays": 13,
+                    "AgeDisplayOld": "26 years, 6 months, 13 days",
                     "BirthDateDisplay": "8/16/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 6 months, 6 days"
+                    "AgeDisplay": "26 years, 6 months, 13 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -716,6 +716,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -752,7 +753,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "AA",
                 "position": "SP",
@@ -1807,7 +1808,7 @@
         "playerNameRoute": "jarrod-cande",
         "playerId": "sa3017813"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

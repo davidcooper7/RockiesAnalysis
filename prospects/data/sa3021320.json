@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/bairon-ledesma/sa3021320",
             "fullRoute": "www.fangraphs.com/players/bairon-ledesma/sa3021320/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/bairon-ledesma/sa3021320/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "5'9\"",
                     "Age": 21,
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 9,
-                    "AgeDays": 19,
-                    "AgeDisplayOld": "20 years, 9 months, 19 days",
+                    "AgeDays": 26,
+                    "AgeDisplayOld": "20 years, 9 months, 26 days",
                     "BirthDateDisplay": "5/3/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 9 months, 19 days"
+                    "AgeDisplay": "20 years, 9 months, 26 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -760,21 +760,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/bairon-ledesma/sa3021320/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "5'9\"",
                     "Age": 21,
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 9,
-                    "AgeDays": 19,
-                    "AgeDisplayOld": "20 years, 9 months, 19 days",
+                    "AgeDays": 26,
+                    "AgeDisplayOld": "20 years, 9 months, 26 days",
                     "BirthDateDisplay": "5/3/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 9 months, 19 days"
+                    "AgeDisplay": "20 years, 9 months, 26 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1020,6 +1020,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -2032,7 +2033,7 @@
         "playerNameRoute": "bairon-ledesma",
         "playerId": "sa3021320"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

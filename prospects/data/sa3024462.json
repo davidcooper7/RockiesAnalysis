@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/eric-veras/sa3024462",
             "fullRoute": "www.fangraphs.com/players/eric-veras/sa3024462/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 2,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "19 years, 2 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "19 years, 2 months, 11 days",
                     "BirthDateDisplay": "12/18/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 2 months, 4 days"
+                    "AgeDisplay": "19 years, 2 months, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -382,7 +382,7 @@
                         "Age": 19,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.62139,
+                        "ERA": 6.62175,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -538,15 +538,15 @@
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 2,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "19 years, 2 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "19 years, 2 months, 11 days",
                     "BirthDateDisplay": "12/18/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 2 months, 4 days"
+                    "AgeDisplay": "19 years, 2 months, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -761,6 +761,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1773,7 +1774,7 @@
         "playerNameRoute": "eric-veras",
         "playerId": "sa3024462"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

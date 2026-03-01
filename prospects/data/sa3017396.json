@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jose-torres/sa3017396",
             "fullRoute": "www.fangraphs.com/players/jose-torres/sa3017396/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jose-torres/sa3017396/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "5'11\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
-                    "AgeMonths": 4,
-                    "AgeDays": 25,
-                    "AgeDisplayOld": "26 years, 4 months, 25 days",
+                    "AgeMonths": 5,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "26 years, 5 months, 1 days",
                     "BirthDateDisplay": "9/28/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 4 months, 25 days"
+                    "AgeDisplay": "26 years, 5 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -940,9 +940,9 @@
                         "sortType": -50
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (AA)",
-                        "ateam": "Rockies (AA)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=2,4&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (AAA)",
+                        "ateam": "Rockies (AAA)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 25,
@@ -1052,7 +1052,7 @@
                         "wBsR": 0.485903,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "5,6,7",
+                        "leagueUrl": "2,4",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -1780,21 +1780,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/jose-torres/sa3017396/stats/batting",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "5'11\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
-                    "AgeMonths": 4,
-                    "AgeDays": 25,
-                    "AgeDisplayOld": "26 years, 4 months, 25 days",
+                    "AgeMonths": 5,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "26 years, 5 months, 1 days",
                     "BirthDateDisplay": "9/28/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 4 months, 25 days"
+                    "AgeDisplay": "26 years, 5 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1808,9 +1808,9 @@
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5,6,7&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (AA)",
-                        "ateam": "Rockies (AA)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=2,4&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (AAA)",
+                        "ateam": "Rockies (AAA)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 25,
@@ -1920,7 +1920,7 @@
                         "wBsR": 0.485903,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "5,6,7",
+                        "leagueUrl": "2,4",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -2231,6 +2231,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": true,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -2267,7 +2268,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-ss",
                 "role": "AAA",
                 "position": "SS/3B/2B",
@@ -3322,7 +3323,7 @@
         "playerNameRoute": "jose-torres",
         "playerId": "sa3017396"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

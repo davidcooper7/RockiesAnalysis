@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/moises-meza/sa3023822",
             "fullRoute": "www.fangraphs.com/players/moises-meza/sa3023822/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/moises-meza/sa3023822/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 21,
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 6,
-                    "AgeDays": 3,
-                    "AgeDisplayOld": "20 years, 6 months, 3 days",
+                    "AgeDays": 10,
+                    "AgeDisplayOld": "20 years, 6 months, 10 days",
                     "BirthDateDisplay": "8/19/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 6 months, 3 days"
+                    "AgeDisplay": "20 years, 6 months, 10 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -382,7 +382,7 @@
                         "Age": 20,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.82614,
+                        "ERA": 6.82623,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -405,12 +405,12 @@
                         "K/9": 4.3623,
                         "BB/9": 6.759,
                         "K/BB": 0.645406,
-                        "H/9": 10.7658,
+                        "H/9": 10.7667,
                         "HR/9": 1.587,
-                        "AVG": 0.294145,
-                        "WHIP": 1.9472,
-                        "BABIP": 0.299462,
-                        "LOB%": 0.672868,
+                        "AVG": 0.29417,
+                        "WHIP": 1.9473,
+                        "BABIP": 0.299491,
+                        "LOB%": 0.672828,
                         "FIP": 6.84997,
                         "LD%": 0.204992,
                         "GB%": 0.420015,
@@ -532,21 +532,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/moises-meza/sa3023822/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'0\"",
                     "Age": 21,
                     "AgeToday": 20,
                     "AgeYears": 20,
                     "AgeMonths": 6,
-                    "AgeDays": 3,
-                    "AgeDisplayOld": "20 years, 6 months, 3 days",
+                    "AgeDays": 10,
+                    "AgeDisplayOld": "20 years, 6 months, 10 days",
                     "BirthDateDisplay": "8/19/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 6 months, 3 days"
+                    "AgeDisplay": "20 years, 6 months, 10 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -761,6 +761,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1773,7 +1774,7 @@
         "playerNameRoute": "moises-meza",
         "playerId": "sa3023822"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/sebastian-blanco/sa3067801",
             "fullRoute": "www.fangraphs.com/players/sebastian-blanco/sa3067801/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/sebastian-blanco/sa3067801/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 18,
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 1,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "18 years, 1 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "18 years, 1 months, 20 days",
                     "BirthDateDisplay": "1/9/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 1 month, 13 days"
+                    "AgeDisplay": "18 years, 1 month, 20 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -282,21 +282,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/sebastian-blanco/sa3067801/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 18,
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 1,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "18 years, 1 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "18 years, 1 months, 20 days",
                     "BirthDateDisplay": "1/9/2008",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 1 month, 13 days"
+                    "AgeDisplay": "18 years, 1 month, 20 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -506,6 +506,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -514,7 +515,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-ss",
                 "role": "Rk",
                 "position": "SS/2B",
@@ -1569,7 +1570,7 @@
         "playerNameRoute": "sebastian-blanco",
         "playerId": "sa3067801"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

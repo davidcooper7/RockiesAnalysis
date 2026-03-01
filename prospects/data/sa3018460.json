@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/ronny-ugarte/sa3018460",
             "fullRoute": "www.fangraphs.com/players/ronny-ugarte/sa3018460/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 2,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "21 years, 2 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "21 years, 2 months, 19 days",
                     "BirthDateDisplay": "12/10/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 2 months, 12 days"
+                    "AgeDisplay": "21 years, 2 months, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -508,15 +508,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 2,
-                    "AgeDays": 12,
-                    "AgeDisplayOld": "21 years, 2 months, 12 days",
+                    "AgeDays": 19,
+                    "AgeDisplayOld": "21 years, 2 months, 19 days",
                     "BirthDateDisplay": "12/10/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 2 months, 12 days"
+                    "AgeDisplay": "21 years, 2 months, 19 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -706,6 +706,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -714,7 +715,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-1b",
                 "role": "Rk",
                 "position": "1B",
@@ -1769,7 +1770,7 @@
         "playerNameRoute": "ronny-ugarte",
         "playerId": "sa3018460"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

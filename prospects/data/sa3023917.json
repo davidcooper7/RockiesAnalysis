@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/roldy-brito/sa3023917",
             "fullRoute": "www.fangraphs.com/players/roldy-brito/sa3023917/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 10,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "18 years, 10 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "18 years, 10 months, 21 days",
                     "BirthDateDisplay": "4/8/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 10 months, 14 days"
+                    "AgeDisplay": "18 years, 10 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -285,9 +285,9 @@
                         "sortType": -53
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (CPX)",
-                        "ateam": "Rockies (CPX)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A)",
+                        "ateam": "Rockies (A)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 18,
@@ -349,7 +349,7 @@
                         "wBsR": -0.779104,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "all",
+                        "leagueUrl": "11,14",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49
@@ -676,15 +676,15 @@
                     "AgeToday": 18,
                     "AgeYears": 18,
                     "AgeMonths": 10,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "18 years, 10 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "18 years, 10 months, 21 days",
                     "BirthDateDisplay": "4/8/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 10 months, 14 days"
+                    "AgeDisplay": "18 years, 10 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -698,9 +698,9 @@
                 },
                 "data": [
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
-                        "Team": "Rockies (CPX)",
-                        "ateam": "Rockies (CPX)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11,14&qual=y&type=0&season=2025&team=0&players=0\">2025</a>",
+                        "Team": "Rockies (A)",
+                        "ateam": "Rockies (A)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 18,
@@ -762,7 +762,7 @@
                         "wBsR": -0.779104,
                         "type": -60,
                         "aseason": 2025,
-                        "leagueUrl": "all",
+                        "leagueUrl": "11,14",
                         "teamId": 0,
                         "sortSeason": 2025,
                         "sortType": -49,
@@ -982,7 +982,7 @@
                         "CMD": "",
                         "cSeason": "2026",
                         "playerPageSortOrder": 0,
-                        "ID": 2731583,
+                        "ID": 2734680,
                         "FirstName": "Roldy",
                         "LastName": "Brito",
                         "Position": "CF",
@@ -1050,7 +1050,7 @@
                         "post_date": "2026-02-16T09:00:04",
                         "post_title": "2026 Top 100 Prospects",
                         "post_name": "2026-top-100-prospects",
-                        "comment_count": 84,
+                        "comment_count": 86,
                         "display_name": "Eric Longenhagen, Brendan Gawlowski and James Fegan",
                         "cat": "|Essential|Essential Articles|Essential Prospects|Featured|Featured Prospects|Prospect Week 2026|Prospects|"
                     }
@@ -1117,6 +1117,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1125,7 +1126,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-21T16:35:03",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "A+",
                 "position": "CF/2B/LF",
@@ -2180,7 +2181,7 @@
         "playerNameRoute": "roldy-brito",
         "playerId": "sa3023917"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

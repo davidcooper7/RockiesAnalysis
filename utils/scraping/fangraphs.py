@@ -71,7 +71,10 @@ def get_specific_data(in_data, keys):
 
 
 def get_stats(props):
-    return props['props']['pageProps']['dataStats']['data']
+    try:
+        return props['props']['pageProps']['dataStats']['data']
+    except:
+        raise Exception(props)
 
 
 def get_stats_df(stats, 

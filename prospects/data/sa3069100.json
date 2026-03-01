@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/ethan-holliday/sa3069100",
             "fullRoute": "www.fangraphs.com/players/ethan-holliday/sa3069100/stats/batting",
             "dataStats": {
@@ -50,18 +50,18 @@
                     "BaseballLevel": "[\"minor\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 19,
-                    "AgeToday": 18,
-                    "AgeYears": 18,
-                    "AgeMonths": 11,
-                    "AgeDays": 30,
-                    "AgeDisplayOld": "18 years, 11 months, 30 days",
+                    "AgeToday": 19,
+                    "AgeYears": 19,
+                    "AgeMonths": 0,
+                    "AgeDays": 6,
+                    "AgeDisplayOld": "19 years, 0 months, 6 days",
                     "BirthDateDisplay": "2/23/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 11 months, 30 days"
+                    "AgeDisplay": "19 years, 6 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -225,18 +225,18 @@
                     "BaseballLevel": "[\"minor\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 19,
-                    "AgeToday": 18,
-                    "AgeYears": 18,
-                    "AgeMonths": 11,
-                    "AgeDays": 30,
-                    "AgeDisplayOld": "18 years, 11 months, 30 days",
+                    "AgeToday": 19,
+                    "AgeYears": 19,
+                    "AgeMonths": 0,
+                    "AgeDays": 6,
+                    "AgeDisplayOld": "19 years, 0 months, 6 days",
                     "BirthDateDisplay": "2/23/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 11 months, 30 days"
+                    "AgeDisplay": "19 years, 6 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -415,11 +415,11 @@
                         "cSeason": "2026",
                         "playerPageSortOrder": 0,
                         "cCollegeCommit": "Oklahoma State",
-                        "ID": 2731531,
+                        "ID": 2734636,
                         "FirstName": "Ethan",
                         "LastName": "Holliday",
                         "Position": "3B",
-                        "Age": "18.9861111",
+                        "Age": "19.0083333",
                         "Team": "COL",
                         "Season": 2026,
                         "Type": "2026 Report",
@@ -487,7 +487,7 @@
                         "post_date": "2026-02-16T09:00:04",
                         "post_title": "2026 Top 100 Prospects",
                         "post_name": "2026-top-100-prospects",
-                        "comment_count": 84,
+                        "comment_count": 86,
                         "display_name": "Eric Longenhagen, Brendan Gawlowski and James Fegan",
                         "cat": "|Essential|Essential Articles|Essential Prospects|Featured|Featured Prospects|Prospect Week 2026|Prospects|"
                     }
@@ -554,6 +554,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -590,7 +591,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-21T16:35:03",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-ss",
                 "role": "A",
                 "position": "SS",
@@ -1645,7 +1646,7 @@
         "playerNameRoute": "ethan-holliday",
         "playerId": "sa3069100"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

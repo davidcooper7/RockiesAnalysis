@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jack-odowd/sa3039054",
             "fullRoute": "www.fangraphs.com/players/jack-odowd/sa3039054/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 9,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "24 years, 9 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "24 years, 9 months, 20 days",
                     "BirthDateDisplay": "5/9/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 9 months, 13 days"
+                    "AgeDisplay": "24 years, 9 months, 20 days"
                 },
                 "teamInfo": {
                     "teamid": null,
@@ -305,15 +305,15 @@
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 9,
-                    "AgeDays": 13,
-                    "AgeDisplayOld": "24 years, 9 months, 13 days",
+                    "AgeDays": 20,
+                    "AgeDisplayOld": "24 years, 9 months, 20 days",
                     "BirthDateDisplay": "5/9/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 9 months, 13 days"
+                    "AgeDisplay": "24 years, 9 months, 20 days"
                 },
                 "teamInfo": {
                     "teamid": null,
@@ -409,6 +409,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1421,7 +1422,7 @@
         "playerNameRoute": "jack-odowd",
         "playerId": "sa3039054"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

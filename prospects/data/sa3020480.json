@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/davison-palermo/sa3020480",
             "fullRoute": "www.fangraphs.com/players/davison-palermo/sa3020480/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/davison-palermo/sa3020480/stats/pitching",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 2,
-                    "AgeDays": 6,
-                    "AgeDisplayOld": "26 years, 2 months, 6 days",
+                    "AgeDays": 13,
+                    "AgeDisplayOld": "26 years, 2 months, 13 days",
                     "BirthDateDisplay": "12/16/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 2 months, 6 days"
+                    "AgeDisplay": "26 years, 2 months, 13 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -624,7 +624,7 @@
                         "Age": 26,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.69655,
+                        "ERA": 5.69619,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -647,12 +647,12 @@
                         "K/9": 6.4944,
                         "BB/9": 4.1949,
                         "K/BB": 1.54817,
-                        "H/9": 10.3878,
+                        "H/9": 10.3869,
                         "HR/9": 1.481,
-                        "AVG": 0.28575,
-                        "WHIP": 1.6203,
-                        "BABIP": 0.313869,
-                        "LOB%": 0.681621,
+                        "AVG": 0.285725,
+                        "WHIP": 1.6202,
+                        "BABIP": 0.313838,
+                        "LOB%": 0.68167,
                         "FIP": 5.38756,
                         "LD%": 0.212131,
                         "GB%": 0.425084,
@@ -1017,21 +1017,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/davison-palermo/sa3020480/stats/pitching",
-                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 26,
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 2,
-                    "AgeDays": 6,
-                    "AgeDisplayOld": "26 years, 2 months, 6 days",
+                    "AgeDays": 13,
+                    "AgeDisplayOld": "26 years, 2 months, 13 days",
                     "BirthDateDisplay": "12/16/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 2 months, 6 days"
+                    "AgeDisplay": "26 years, 2 months, 13 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1206,6 +1206,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1242,7 +1243,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "AA",
                 "position": "RP",
@@ -2297,7 +2298,7 @@
         "playerNameRoute": "davison-palermo",
         "playerId": "sa3020480"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

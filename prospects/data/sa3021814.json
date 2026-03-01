@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/odarlin-cruz/sa3021814",
             "fullRoute": "www.fangraphs.com/players/odarlin-cruz/sa3021814/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/odarlin-cruz/sa3021814/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'7\"",
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 0,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "21 years, 0 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "21 years, 0 months, 11 days",
                     "BirthDateDisplay": "2/18/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 4 days"
+                    "AgeDisplay": "21 years, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -480,12 +480,12 @@
                         "K/9": 4.8258,
                         "BB/9": 8.0487,
                         "K/BB": 0.599575,
-                        "H/9": 10.3734,
+                        "H/9": 10.3743,
                         "HR/9": 1.543,
-                        "AVG": 0.286488,
-                        "WHIP": 2.0469,
-                        "BABIP": 0.295925,
-                        "LOB%": 0.68029,
+                        "AVG": 0.286513,
+                        "WHIP": 2.047,
+                        "BABIP": 0.295955,
+                        "LOB%": 0.680307,
                         "FIP": 7.13191,
                         "LD%": 0.204998,
                         "GB%": 0.398998,
@@ -627,21 +627,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/odarlin-cruz/sa3021814/stats/pitching",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'7\"",
                     "Age": 21,
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 0,
-                    "AgeDays": 4,
-                    "AgeDisplayOld": "21 years, 0 months, 4 days",
+                    "AgeDays": 11,
+                    "AgeDisplayOld": "21 years, 0 months, 11 days",
                     "BirthDateDisplay": "2/18/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 4 days"
+                    "AgeDisplay": "21 years, 11 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -816,6 +816,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1828,7 +1829,7 @@
         "playerNameRoute": "odarlin-cruz",
         "playerId": "sa3021814"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

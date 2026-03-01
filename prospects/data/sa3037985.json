@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jonathan-middleton/sa3037985",
             "fullRoute": "www.fangraphs.com/players/jonathan-middleton/sa3037985/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 22,
                     "AgeToday": 22,
                     "AgeYears": 22,
-                    "AgeMonths": 2,
-                    "AgeDays": 29,
-                    "AgeDisplayOld": "22 years, 2 months, 29 days",
+                    "AgeMonths": 3,
+                    "AgeDays": 5,
+                    "AgeDisplayOld": "22 years, 3 months, 5 days",
                     "BirthDateDisplay": "11/24/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 2 months, 29 days"
+                    "AgeDisplay": "22 years, 3 months, 5 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -254,16 +254,16 @@
                     "Age": 22,
                     "AgeToday": 22,
                     "AgeYears": 22,
-                    "AgeMonths": 2,
-                    "AgeDays": 29,
-                    "AgeDisplayOld": "22 years, 2 months, 29 days",
+                    "AgeMonths": 3,
+                    "AgeDays": 5,
+                    "AgeDisplayOld": "22 years, 3 months, 5 days",
                     "BirthDateDisplay": "11/24/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 2 months, 29 days"
+                    "AgeDisplay": "22 years, 3 months, 5 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -419,6 +419,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -455,7 +456,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T12:34:56",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A",
                 "position": "SP",
@@ -463,7 +464,7 @@
                 "player": "JB Middleton",
                 "notes": "",
                 "handed": "R",
-                "age": "22.2",
+                "age": "22.3",
                 "acquired": "Drafted 2nd Rd (45) '25",
                 "options": "Dec'28",
                 "servicetime": "",
@@ -474,7 +475,7 @@
                 "injurynotes": "",
                 "injurydate": "",
                 "mlbamid": 822477,
-                "age1": "22.2",
+                "age1": "22.3",
                 "jnum1": "",
                 "roster40": "N",
                 "bats": "R",
@@ -1510,7 +1511,7 @@
         "playerNameRoute": "jonathan-middleton",
         "playerId": "sa3037985"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

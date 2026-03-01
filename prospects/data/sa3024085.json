@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/marcos-pimentel/sa3024085",
             "fullRoute": "www.fangraphs.com/players/marcos-pimentel/sa3024085/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 19,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 4,
-                    "AgeDays": 23,
-                    "AgeDisplayOld": "19 years, 4 months, 23 days",
+                    "AgeMonths": 5,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "19 years, 5 months, 1 days",
                     "BirthDateDisplay": "9/30/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 4 months, 23 days"
+                    "AgeDisplay": "19 years, 5 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -233,7 +233,7 @@
                         "Age": 19,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.82398,
+                        "ERA": 6.82488,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -256,12 +256,12 @@
                         "K/9": 4.1166,
                         "BB/9": 6.0354,
                         "K/BB": 0.682076,
-                        "H/9": 10.9395,
+                        "H/9": 10.9404,
                         "HR/9": 1.698,
-                        "AVG": 0.296536,
-                        "WHIP": 1.8861,
-                        "BABIP": 0.29738,
-                        "LOB%": 0.668694,
+                        "AVG": 0.29656,
+                        "WHIP": 1.8862,
+                        "BABIP": 0.297409,
+                        "LOB%": 0.668653,
                         "FIP": 6.821,
                         "LD%": 0.205005,
                         "GB%": 0.40199,
@@ -368,16 +368,16 @@
                     "Age": 19,
                     "AgeToday": 19,
                     "AgeYears": 19,
-                    "AgeMonths": 4,
-                    "AgeDays": 23,
-                    "AgeDisplayOld": "19 years, 4 months, 23 days",
+                    "AgeMonths": 5,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "19 years, 5 months, 1 days",
                     "BirthDateDisplay": "9/30/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 4 months, 23 days"
+                    "AgeDisplay": "19 years, 5 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -572,6 +572,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1584,7 +1585,7 @@
         "playerNameRoute": "marcos-pimentel",
         "playerId": "sa3024085"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

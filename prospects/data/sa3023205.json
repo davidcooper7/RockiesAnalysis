@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jake-brooks/sa3023205",
             "fullRoute": "www.fangraphs.com/players/jake-brooks/sa3023205/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 7,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "24 years, 7 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "24 years, 7 months, 21 days",
                     "BirthDateDisplay": "7/8/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 7 months, 14 days"
+                    "AgeDisplay": "24 years, 7 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -841,12 +841,12 @@
                         "K/9": 5.1723,
                         "BB/9": 2.6109,
                         "K/BB": 1.98104,
-                        "H/9": 11.097,
+                        "H/9": 11.0961,
                         "HR/9": 1.624,
-                        "AVG": 0.299156,
-                        "WHIP": 1.5231,
-                        "BABIP": 0.31266,
-                        "LOB%": 0.667151,
+                        "AVG": 0.299131,
+                        "WHIP": 1.523,
+                        "BABIP": 0.31263,
+                        "LOB%": 0.667124,
                         "FIP": 5.35271,
                         "LD%": 0.211939,
                         "GB%": 0.441712,
@@ -1217,15 +1217,15 @@
                     "AgeToday": 24,
                     "AgeYears": 24,
                     "AgeMonths": 7,
-                    "AgeDays": 14,
-                    "AgeDisplayOld": "24 years, 7 months, 14 days",
+                    "AgeDays": 21,
+                    "AgeDisplayOld": "24 years, 7 months, 21 days",
                     "BirthDateDisplay": "7/8/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 7 months, 14 days"
+                    "AgeDisplay": "24 years, 7 months, 21 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1406,6 +1406,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1442,7 +1443,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "AA",
                 "position": "SP",
@@ -2497,7 +2498,7 @@
         "playerNameRoute": "jake-brooks",
         "playerId": "sa3023205"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

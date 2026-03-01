@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/max-belyeu/sa3026937",
             "fullRoute": "www.fangraphs.com/players/max-belyeu/sa3026937/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 2,
-                    "AgeDays": 7,
-                    "AgeDisplayOld": "22 years, 2 months, 7 days",
+                    "AgeDays": 14,
+                    "AgeDisplayOld": "22 years, 2 months, 14 days",
                     "BirthDateDisplay": "12/15/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 2 months, 7 days"
+                    "AgeDisplay": "22 years, 2 months, 14 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -369,15 +369,15 @@
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 2,
-                    "AgeDays": 7,
-                    "AgeDisplayOld": "22 years, 2 months, 7 days",
+                    "AgeDays": 14,
+                    "AgeDisplayOld": "22 years, 2 months, 14 days",
                     "BirthDateDisplay": "12/15/2003",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 2 months, 7 days"
+                    "AgeDisplay": "22 years, 2 months, 14 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -685,6 +685,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -721,7 +722,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T11:59:32",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-of",
                 "role": "A+",
                 "position": "RF/CF/LF",
@@ -1776,7 +1777,7 @@
         "playerNameRoute": "max-belyeu",
         "playerId": "sa3026937"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

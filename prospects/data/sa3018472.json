@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/kelvin-hidalgo/sa3018472",
             "fullRoute": "www.fangraphs.com/players/kelvin-hidalgo/sa3018472/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/kelvin-hidalgo/sa3018472/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 21,
-                    "AgeToday": 20,
-                    "AgeYears": 20,
-                    "AgeMonths": 11,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "20 years, 11 months, 21 days",
+                    "AgeToday": 21,
+                    "AgeYears": 21,
+                    "AgeMonths": 0,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "21 years, 0 months, 0 days",
                     "BirthDateDisplay": "3/1/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 11 months, 21 days"
+                    "AgeDisplay": "21 years"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -896,26 +896,6 @@
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=286&players=0\">Rockies (DSL)</a>",
-                        "ateam": "Rockies (DSL)",
-                        "AbbName": "COL",
-                        "AbbLevel": "DSL",
-                        "Pos": "SS",
-                        "apos": "SS",
-                        "G": 6,
-                        "GS": 6,
-                        "Inn": 54,
-                        "PO": 9,
-                        "A": 11,
-                        "E": 0,
-                        "DP": 2,
-                        "posnum": 6,
-                        "Type": -55,
-                        "aseason": 2023,
-                        "teamId": -286
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=220&players=0\">Rockies (DSL)</a>",
                         "ateam": "Rockies (DSL)",
                         "AbbName": "COL",
@@ -933,6 +913,26 @@
                         "Type": -55,
                         "aseason": 2023,
                         "teamId": -220
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2023&team=0&players=0\">2023</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2023&team=286&players=0\">Rockies (DSL)</a>",
+                        "ateam": "Rockies (DSL)",
+                        "AbbName": "COL",
+                        "AbbLevel": "DSL",
+                        "Pos": "SS",
+                        "apos": "SS",
+                        "G": 6,
+                        "GS": 6,
+                        "Inn": 54,
+                        "PO": 9,
+                        "A": 11,
+                        "E": 0,
+                        "DP": 2,
+                        "posnum": 6,
+                        "Type": -55,
+                        "aseason": 2023,
+                        "teamId": -286
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2024&team=0&players=0\">2024</a>",
@@ -1090,21 +1090,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/kelvin-hidalgo/sa3018472/stats/batting",
-                    "BaseballLevel": "[\"proj\",\"minor\"]",
+                    "BaseballLevel": "[\"minor\",\"proj\"]",
                     "HeightDisplay": "6'1\"",
                     "Age": 21,
-                    "AgeToday": 20,
-                    "AgeYears": 20,
-                    "AgeMonths": 11,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "20 years, 11 months, 21 days",
+                    "AgeToday": 21,
+                    "AgeYears": 21,
+                    "AgeMonths": 0,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "21 years, 0 months, 0 days",
                     "BirthDateDisplay": "3/1/2005",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "20 years, 11 months, 21 days"
+                    "AgeDisplay": "21 years"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1430,6 +1430,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1438,7 +1439,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-ss",
                 "role": "A+",
                 "position": "SS/3B/2B",
@@ -2493,7 +2494,7 @@
         "playerNameRoute": "kelvin-hidalgo",
         "playerId": "sa3018472"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

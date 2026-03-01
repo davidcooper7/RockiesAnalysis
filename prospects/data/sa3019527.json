@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/cruzmel-arias/sa3019527",
             "fullRoute": "www.fangraphs.com/players/cruzmel-arias/sa3019527/stats/batting",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/cruzmel-arias/sa3019527/stats/batting",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "5'11\"",
                     "Age": 22,
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 0,
-                    "AgeDays": 2,
-                    "AgeDisplayOld": "22 years, 0 months, 2 days",
+                    "AgeDays": 9,
+                    "AgeDisplayOld": "22 years, 0 months, 9 days",
                     "BirthDateDisplay": "2/20/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 2 days"
+                    "AgeDisplay": "22 years, 9 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -862,21 +862,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/cruzmel-arias/sa3019527/stats/batting",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "5'11\"",
                     "Age": 22,
                     "AgeToday": 22,
                     "AgeYears": 22,
                     "AgeMonths": 0,
-                    "AgeDays": 2,
-                    "AgeDisplayOld": "22 years, 0 months, 2 days",
+                    "AgeDays": 9,
+                    "AgeDisplayOld": "22 years, 0 months, 9 days",
                     "BirthDateDisplay": "2/20/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "22 years, 2 days"
+                    "AgeDisplay": "22 years, 9 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1109,6 +1109,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -2121,7 +2122,7 @@
         "playerNameRoute": "cruzmel-arias",
         "playerId": "sa3019527"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

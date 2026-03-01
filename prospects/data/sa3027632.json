@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/brody-brecht/sa3027632",
             "fullRoute": "www.fangraphs.com/players/brody-brecht/sa3027632/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/brody-brecht/sa3027632/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 23,
                     "AgeToday": 23,
                     "AgeYears": 23,
-                    "AgeMonths": 4,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "23 years, 4 months, 26 days",
+                    "AgeMonths": 5,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "23 years, 5 months, 2 days",
                     "BirthDateDisplay": "9/27/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 4 months, 26 days"
+                    "AgeDisplay": "23 years, 5 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -626,21 +626,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/brody-brecht/sa3027632/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 23,
                     "AgeToday": 23,
                     "AgeYears": 23,
-                    "AgeMonths": 4,
-                    "AgeDays": 26,
-                    "AgeDisplayOld": "23 years, 4 months, 26 days",
+                    "AgeMonths": 5,
+                    "AgeDays": 2,
+                    "AgeDisplayOld": "23 years, 5 months, 2 days",
                     "BirthDateDisplay": "9/27/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 4 months, 26 days"
+                    "AgeDisplay": "23 years, 5 months, 2 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -918,6 +918,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -954,7 +955,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T12:03:59",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A+",
                 "position": "SP",
@@ -2009,7 +2010,7 @@
         "playerNameRoute": "brody-brecht",
         "playerId": "sa3027632"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

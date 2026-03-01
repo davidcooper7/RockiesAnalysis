@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/austin-emener/sa3022799",
             "fullRoute": "www.fangraphs.com/players/austin-emener/sa3022799/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 24,
                     "AgeToday": 23,
                     "AgeYears": 23,
-                    "AgeMonths": 8,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "23 years, 8 months, 21 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "23 years, 9 months, 0 days",
                     "BirthDateDisplay": "6/1/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 8 months, 21 days"
+                    "AgeDisplay": "23 years, 9 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -446,7 +446,7 @@
                         "Age": 24,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.30513,
+                        "ERA": 6.30432,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -469,12 +469,12 @@
                         "K/9": 6.1695,
                         "BB/9": 5.7897,
                         "K/BB": 1.0656,
-                        "H/9": 10.4364,
+                        "H/9": 10.4355,
                         "HR/9": 1.599,
-                        "AVG": 0.286604,
-                        "WHIP": 1.8029,
-                        "BABIP": 0.308509,
-                        "LOB%": 0.683775,
+                        "AVG": 0.286579,
+                        "WHIP": 1.8028,
+                        "BABIP": 0.308478,
+                        "LOB%": 0.683819,
                         "FIP": 6.1348,
                         "LD%": 0.212562,
                         "GB%": 0.37961,
@@ -652,16 +652,16 @@
                     "Age": 24,
                     "AgeToday": 23,
                     "AgeYears": 23,
-                    "AgeMonths": 8,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "23 years, 8 months, 21 days",
+                    "AgeMonths": 9,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "23 years, 9 months, 0 days",
                     "BirthDateDisplay": "6/1/2002",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "23 years, 8 months, 21 days"
+                    "AgeDisplay": "23 years, 9 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -836,6 +836,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -872,7 +873,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "A",
                 "position": "SP",
@@ -1927,7 +1928,7 @@
         "playerNameRoute": "austin-emener",
         "playerId": "sa3022799"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

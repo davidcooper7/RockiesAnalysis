@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/ben-shields/sa3023483",
             "fullRoute": "www.fangraphs.com/players/ben-shields/sa3023483/stats/pitching",
             "dataStats": {
@@ -52,16 +52,16 @@
                     "Age": 27,
                     "AgeToday": 27,
                     "AgeYears": 27,
-                    "AgeMonths": 0,
-                    "AgeDays": 30,
-                    "AgeDisplayOld": "27 years, 0 months, 30 days",
+                    "AgeMonths": 1,
+                    "AgeDays": 6,
+                    "AgeDisplayOld": "27 years, 1 months, 6 days",
                     "BirthDateDisplay": "1/23/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "27 years, 30 days"
+                    "AgeDisplay": "27 years, 1 month, 6 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -889,7 +889,7 @@
                         "Age": 27,
                         "W": 0,
                         "L": 0,
-                        "ERA": 5.17194,
+                        "ERA": 5.17149,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -912,12 +912,12 @@
                         "K/9": 7.0794,
                         "BB/9": 3.4272,
                         "K/BB": 2.06565,
-                        "H/9": 10.0773,
+                        "H/9": 10.0764,
                         "HR/9": 1.408,
-                        "AVG": 0.279164,
-                        "WHIP": 1.5005,
-                        "BABIP": 0.313983,
-                        "LOB%": 0.691623,
+                        "AVG": 0.279139,
+                        "WHIP": 1.5004,
+                        "BABIP": 0.313951,
+                        "LOB%": 0.691677,
                         "FIP": 4.89501,
                         "LD%": 0.211924,
                         "GB%": 0.435692,
@@ -1347,16 +1347,16 @@
                     "Age": 27,
                     "AgeToday": 27,
                     "AgeYears": 27,
-                    "AgeMonths": 0,
-                    "AgeDays": 30,
-                    "AgeDisplayOld": "27 years, 0 months, 30 days",
+                    "AgeMonths": 1,
+                    "AgeDays": 6,
+                    "AgeDisplayOld": "27 years, 1 months, 6 days",
                     "BirthDateDisplay": "1/23/1999",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "27 years, 30 days"
+                    "AgeDisplay": "27 years, 1 month, 6 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -1842,6 +1842,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": true,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1850,7 +1851,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T12:23:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "AAA",
                 "position": "SP",
@@ -2905,7 +2906,7 @@
         "playerNameRoute": "ben-shields",
         "playerId": "sa3023483"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

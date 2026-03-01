@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/cade-denton/sa3023047",
             "fullRoute": "www.fangraphs.com/players/cade-denton/sa3023047/stats/pitching",
             "dataStats": {
@@ -47,28 +47,28 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/cade-denton/sa3023047/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 1,
-                    "AgeDays": 25,
-                    "AgeDisplayOld": "24 years, 1 months, 25 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "24 years, 2 months, 1 days",
                     "BirthDateDisplay": "12/28/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 1 month, 25 days"
+                    "AgeDisplay": "24 years, 2 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
                     "MLB_FullName": "Colorado Rockies",
                     "MLB_ShortName": "Rockies",
                     "MLB_AbbName": "COL",
-                    "MiLB_FullName": "Spokane Indians",
+                    "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
                     "llevel": "A+"
@@ -849,9 +849,9 @@
                         "BABIP": 0.314593,
                         "LOB%": 0.675276,
                         "FIP": 5.75761,
-                        "LD%": 0.212153,
-                        "GB%": 0.433109,
-                        "FB%": 0.354738,
+                        "LD%": 0.212129,
+                        "GB%": 0.433122,
+                        "FB%": 0.354749,
                         "RAR": -0.116162,
                         "WAR": -0.0117781,
                         "xFIP": 5.43267,
@@ -1080,28 +1080,28 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/cade-denton/sa3023047/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\",\"college\"]",
+                    "BaseballLevel": "[\"college\",\"minor\",\"proj\"]",
                     "HeightDisplay": "6'4\"",
                     "Age": 24,
                     "AgeToday": 24,
                     "AgeYears": 24,
-                    "AgeMonths": 1,
-                    "AgeDays": 25,
-                    "AgeDisplayOld": "24 years, 1 months, 25 days",
+                    "AgeMonths": 2,
+                    "AgeDays": 1,
+                    "AgeDisplayOld": "24 years, 2 months, 1 days",
                     "BirthDateDisplay": "12/28/2001",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "24 years, 1 month, 25 days"
+                    "AgeDisplay": "24 years, 2 months, 1 day"
                 },
                 "teamInfo": {
                     "teamid": 19,
                     "MLB_FullName": "Colorado Rockies",
                     "MLB_ShortName": "Rockies",
                     "MLB_AbbName": "COL",
-                    "MiLB_FullName": "Spokane Indians",
+                    "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
                     "llevel": "A+"
@@ -1415,6 +1415,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": true,
                 "shouldShowProspectsReport": true,
                 "hasPlayerRaterBat": false,
@@ -1451,7 +1452,7 @@
             },
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-rp",
                 "role": "AA",
                 "position": "RP",
@@ -2506,7 +2507,7 @@
         "playerNameRoute": "cade-denton",
         "playerId": "sa3023047"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/carlos-martorella/sa3024552",
             "fullRoute": "www.fangraphs.com/players/carlos-martorella/sa3024552/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 6,
-                    "AgeDays": 20,
-                    "AgeDisplayOld": "19 years, 6 months, 20 days",
+                    "AgeDays": 27,
+                    "AgeDisplayOld": "19 years, 6 months, 27 days",
                     "BirthDateDisplay": "8/2/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 6 months, 20 days"
+                    "AgeDisplay": "19 years, 6 months, 27 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -531,7 +531,7 @@
                         "Age": 19,
                         "W": 0,
                         "L": 0,
-                        "ERA": 7.14411,
+                        "ERA": 7.14474,
                         "G": 1,
                         "GS": 0,
                         "QS": 0,
@@ -559,7 +559,7 @@
                         "AVG": 0.294377,
                         "WHIP": 2.0486,
                         "BABIP": 0.297944,
-                        "LOB%": 0.673134,
+                        "LOB%": 0.673079,
                         "FIP": 7.21969,
                         "LD%": 0.205004,
                         "GB%": 0.40702,
@@ -707,15 +707,15 @@
                     "AgeToday": 19,
                     "AgeYears": 19,
                     "AgeMonths": 6,
-                    "AgeDays": 20,
-                    "AgeDisplayOld": "19 years, 6 months, 20 days",
+                    "AgeDays": 27,
+                    "AgeDisplayOld": "19 years, 6 months, 27 days",
                     "BirthDateDisplay": "8/2/2006",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "19 years, 6 months, 20 days"
+                    "AgeDisplay": "19 years, 6 months, 27 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -950,6 +950,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1962,7 +1963,7 @@
         "playerNameRoute": "carlos-martorella",
         "playerId": "sa3024552"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

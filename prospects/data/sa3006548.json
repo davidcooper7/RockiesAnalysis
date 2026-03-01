@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/batting",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/jose-cordova/sa3006548",
             "fullRoute": "www.fangraphs.com/players/jose-cordova/sa3006548/stats/batting",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 1,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "26 years, 1 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "26 years, 1 months, 18 days",
                     "BirthDateDisplay": "1/11/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 1 month, 11 days"
+                    "AgeDisplay": "26 years, 1 month, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -71,7 +71,7 @@
                     "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
-                    "llevel": "AA"
+                    "llevel": "ST"
                 },
                 "data": [
                     {
@@ -565,9 +565,9 @@
                         "sortType": -52
                     },
                     {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=0&season=2022&team=0&players=0\">2022</a>",
-                        "Team": "Rockies (CPX)",
-                        "ateam": "Rockies (CPX)",
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=8,9,10&qual=y&type=0&season=2022&team=0&players=0\">2022</a>",
+                        "Team": "Rockies (A+)",
+                        "ateam": "Rockies (A+)",
                         "AbbName": "COL",
                         "AbbLevel": "MiLB",
                         "Age": 22,
@@ -629,7 +629,7 @@
                         "wBsR": -0.0641776,
                         "type": -60,
                         "aseason": 2022,
-                        "leagueUrl": "all",
+                        "leagueUrl": "8,9,10",
                         "teamId": 0,
                         "sortSeason": 2022,
                         "sortType": -49
@@ -1327,6 +1327,76 @@
                         "teamId": -319,
                         "sortSeason": 2025,
                         "sortType": -40
+                    },
+                    {
+                        "Season": "2026",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2026&team=319&players=0\">Rockies (ST)</a>",
+                        "ateam": "Rockies (ST)",
+                        "AbbName": "COL",
+                        "AbbLevel": "ST",
+                        "Age": 26,
+                        "G": 1,
+                        "AB": 0,
+                        "PA": 0,
+                        "H": 0,
+                        "1B": 0,
+                        "2B": 0,
+                        "3B": 0,
+                        "HR": 0,
+                        "R": 0,
+                        "RBI": 0,
+                        "BB": 0,
+                        "IBB": 0,
+                        "SO": 0,
+                        "HBP": 0,
+                        "SF": 0,
+                        "SH": 0,
+                        "GDP": 0,
+                        "SB": 0,
+                        "CS": 0,
+                        "AVG": 0,
+                        "GB": 0,
+                        "FB": 0,
+                        "LD": 0,
+                        "IFFB": 0,
+                        "Pitches": 0,
+                        "Balls": 0,
+                        "Strikes": 0,
+                        "BB%": 0,
+                        "K%": 0,
+                        "BB/K": 0,
+                        "OBP": 0,
+                        "SLG": 0,
+                        "OPS": 0,
+                        "ISO": 0,
+                        "BABIP": 0,
+                        "GB/FB": 0,
+                        "LD%": 0,
+                        "GB%": 0,
+                        "FB%": 0,
+                        "IFFB%": 0,
+                        "HR/FB": 0,
+                        "wOBA": 0,
+                        "wRAA": 0,
+                        "wRC": 0,
+                        "Spd": 0.142857,
+                        "wRC+": -100,
+                        "F-Strike%": 0,
+                        "SwStr%": 0,
+                        "Pull%": 0,
+                        "Cent%": 0,
+                        "Oppo%": 0,
+                        "CStr%": 0,
+                        "C+SwStr%": 0,
+                        "pfxSwing%": 0,
+                        "pfxContact%": 0,
+                        "wBsR": 0,
+                        "type": -40,
+                        "aseason": 2026,
+                        "leagueUrl": "all",
+                        "teamId": -319,
+                        "sortSeason": 2026,
+                        "sortType": -200
                     },
                     {
                         "Season": "2026",
@@ -2100,26 +2170,6 @@
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=15,16,17,18&qual=y&type=0&season=2018&team=0&players=0\">2018</a>",
-                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2018&team=286&players=0\">Rockies (R)</a>",
-                        "ateam": "Rockies (R)",
-                        "AbbName": "COL",
-                        "AbbLevel": "R",
-                        "Pos": "DH",
-                        "apos": "DH",
-                        "G": 2,
-                        "GS": 2,
-                        "Inn": 0,
-                        "PO": 0,
-                        "A": 0,
-                        "E": 0,
-                        "DP": 0,
-                        "posnum": 10,
-                        "Type": -55,
-                        "aseason": 2018,
-                        "teamId": -286
-                    },
-                    {
-                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=15,16,17,18&qual=y&type=0&season=2018&team=0&players=0\">2018</a>",
                         "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2018&team=220&players=0\">Rockies (R)</a>",
                         "ateam": "Rockies (R)",
                         "AbbName": "COL",
@@ -2137,6 +2187,26 @@
                         "Type": -55,
                         "aseason": 2018,
                         "teamId": -220
+                    },
+                    {
+                        "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=15,16,17,18&qual=y&type=0&season=2018&team=0&players=0\">2018</a>",
+                        "Team": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=0&season=2018&team=286&players=0\">Rockies (R)</a>",
+                        "ateam": "Rockies (R)",
+                        "AbbName": "COL",
+                        "AbbLevel": "R",
+                        "Pos": "DH",
+                        "apos": "DH",
+                        "G": 2,
+                        "GS": 2,
+                        "Inn": 0,
+                        "PO": 0,
+                        "A": 0,
+                        "E": 0,
+                        "DP": 0,
+                        "posnum": 10,
+                        "Type": -55,
+                        "aseason": 2018,
+                        "teamId": -286
                     },
                     {
                         "Season": "<a href=\"http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=15,16,17,18&qual=y&type=0&season=2019&team=0&players=0\">2019</a>",
@@ -2300,15 +2370,15 @@
                     "AgeToday": 26,
                     "AgeYears": 26,
                     "AgeMonths": 1,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "26 years, 1 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "26 years, 1 months, 18 days",
                     "BirthDateDisplay": "1/11/2000",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "26 years, 1 month, 11 days"
+                    "AgeDisplay": "26 years, 1 month, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -2318,7 +2388,7 @@
                     "MiLB_FullName": "Colorado Rockies",
                     "College_FullName": null,
                     "College_Class": null,
-                    "llevel": "AA"
+                    "llevel": "ST"
                 },
                 "data": [
                     {
@@ -2613,6 +2683,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": true,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -2621,7 +2692,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-21T16:35:03",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-1b",
                 "role": "AAA",
                 "position": "1B/C",
@@ -3676,7 +3747,7 @@
         "playerNameRoute": "jose-cordova",
         "playerId": "sa3006548"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

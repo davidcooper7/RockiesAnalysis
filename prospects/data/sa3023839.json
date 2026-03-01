@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/reiver-camacho/sa3023839",
             "fullRoute": "www.fangraphs.com/players/reiver-camacho/sa3023839/stats/pitching",
             "dataStats": {
@@ -47,21 +47,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/reiver-camacho/sa3023839/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "6'2\"",
                     "Age": 19,
                     "AgeToday": 18,
                     "AgeYears": 18,
-                    "AgeMonths": 10,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "18 years, 10 months, 21 days",
+                    "AgeMonths": 11,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "18 years, 11 months, 0 days",
                     "BirthDateDisplay": "4/1/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 10 months, 21 days"
+                    "AgeDisplay": "18 years, 11 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -233,7 +233,7 @@
                         "Age": 19,
                         "W": 0,
                         "L": 0,
-                        "ERA": 6.55875,
+                        "ERA": 6.55956,
                         "G": 0,
                         "GS": 0,
                         "QS": 0,
@@ -256,12 +256,12 @@
                         "K/9": 4.3911,
                         "BB/9": 6.264,
                         "K/BB": 0.701006,
-                        "H/9": 10.6686,
+                        "H/9": 10.6695,
                         "HR/9": 1.571,
-                        "AVG": 0.291741,
-                        "WHIP": 1.8814,
-                        "BABIP": 0.297242,
-                        "LOB%": 0.677205,
+                        "AVG": 0.291765,
+                        "WHIP": 1.8815,
+                        "BABIP": 0.297272,
+                        "LOB%": 0.677225,
                         "FIP": 6.65096,
                         "LD%": 0.204986,
                         "GB%": 0.418003,
@@ -414,21 +414,21 @@
                     "CurrentLeague": null,
                     "HOF": null,
                     "UPURL": "/players/reiver-camacho/sa3023839/stats/pitching",
-                    "BaseballLevel": "[\"minor\",\"proj\"]",
+                    "BaseballLevel": "[\"proj\",\"minor\"]",
                     "HeightDisplay": "6'2\"",
                     "Age": 19,
                     "AgeToday": 18,
                     "AgeYears": 18,
-                    "AgeMonths": 10,
-                    "AgeDays": 21,
-                    "AgeDisplayOld": "18 years, 10 months, 21 days",
+                    "AgeMonths": 11,
+                    "AgeDays": 0,
+                    "AgeDisplayOld": "18 years, 11 months, 0 days",
                     "BirthDateDisplay": "4/1/2007",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "18 years, 10 months, 21 days"
+                    "AgeDisplay": "18 years, 11 months"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -623,6 +623,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -631,7 +632,7 @@
             "dataModuleDraftInfo": null,
             "dataModuleDepthChart": {
                 "teamid": 19,
-                "loaddate": "2026-02-22T14:41:48",
+                "loaddate": "2026-02-28T14:40:24",
                 "type": "off-sp",
                 "role": "Rk",
                 "position": "SP",
@@ -1686,7 +1687,7 @@
         "playerNameRoute": "reiver-camacho",
         "playerId": "sa3023839"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,

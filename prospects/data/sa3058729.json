@@ -2,7 +2,7 @@
     "props": {
         "appProps": {
             "footer": {
-                "loadtime": "2026-02-22T10:42:22"
+                "loadtime": "2026-02-28T23:32:41"
             },
             "path": "/players/[playerNameRoute]/[playerId]/stats/pitching",
             "search": {
@@ -12,7 +12,7 @@
         },
         "__N_SSP": true,
         "pageProps": {
-            "BUILD_ID": "uYjVvAM-JDUctxusbH8tD",
+            "BUILD_ID": "AqrsHP61GXGxiYukyX8Zv",
             "baseRoute": "/players/luke-broderick/sa3058729",
             "fullRoute": "www.fangraphs.com/players/luke-broderick/sa3058729/stats/pitching",
             "dataStats": {
@@ -53,15 +53,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 11,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "21 years, 11 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "21 years, 11 months, 18 days",
                     "BirthDateDisplay": "3/11/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 11 months, 11 days"
+                    "AgeDisplay": "21 years, 11 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -163,15 +163,15 @@
                     "AgeToday": 21,
                     "AgeYears": 21,
                     "AgeMonths": 11,
-                    "AgeDays": 11,
-                    "AgeDisplayOld": "21 years, 11 months, 11 days",
+                    "AgeDays": 18,
+                    "AgeDisplayOld": "21 years, 11 months, 18 days",
                     "BirthDateDisplay": "3/11/2004",
                     "DeathDateDisplay": null,
                     "servicetime": null,
                     "urlHeadshot": null,
                     "minSeason": null,
                     "maxSeason": null,
-                    "AgeDisplay": "21 years, 11 months, 11 days"
+                    "AgeDisplay": "21 years, 11 months, 18 days"
                 },
                 "teamInfo": {
                     "teamid": 19,
@@ -248,6 +248,7 @@
                 "has2007": false,
                 "has2015": false,
                 "has2023_3A": false,
+                "has2024": false,
                 "hasProspectsReport": false,
                 "shouldShowProspectsReport": false,
                 "hasPlayerRaterBat": false,
@@ -1288,7 +1289,7 @@
         "playerNameRoute": "luke-broderick",
         "playerId": "sa3058729"
     },
-    "buildId": "uYjVvAM-JDUctxusbH8tD",
+    "buildId": "AqrsHP61GXGxiYukyX8Zv",
     "isFallback": false,
     "isExperimentalCompile": false,
     "gssp": true,
