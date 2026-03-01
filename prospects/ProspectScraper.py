@@ -9,11 +9,12 @@ class ProspectScraper():
 
     def __init__(self, skip_names=[]):
 
-        # Load propsect data
-        BASE_DIR = Path(__file__).resolve().parent
-        self.prospect_data_dir = BASE_DIR / "data"
-        self.csv_fn = os.path.join(self.prospect_data_dir, 'prospects.csv')
-        if os.path.exists(self.csv_fn):
+        base_dir = Path(__file__).resolve().parent
+        self.prospect_data_dir = base_dir / "data"
+
+        self.csv_fn = self.prospect_data_dir / "prospects.csv"
+
+        if self.csv_fn.exists():
             self.df = pd.read_csv(self.csv_fn)
         else:
             self.skip_names = skip_names
