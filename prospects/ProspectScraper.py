@@ -11,6 +11,8 @@ class ProspectScraper():
 
         base_dir = Path(__file__).resolve().parent
         self.prospect_data_dir = base_dir / "data"
+        print('>>> base_dir', base_dir)
+        print('>>> self.prospect_data_dir', self.prospect_data_dir)
 
         self.csv_fn = self.prospect_data_dir / "prospects.csv"
 
