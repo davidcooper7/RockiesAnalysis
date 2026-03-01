@@ -43,22 +43,16 @@ def scrape_roster(URL=None, level=None):
     return names
 
 def scrape_all_rosters():
-    MLB_URL = 'https://www.mlb.com/rockies/roster/40-man'
-    AAA_URL = 'https://www.milb.com/albuquerque/roster'
-    AA_URL = 'https://www.milb.com/hartford/roster'
-    HighA_URL = 'https://www.milb.com/spokane/roster'
-    A_URL = 'https://www.milb.com/fresno/roster'
-    ACL_URL = 'https://www.milb.com/arizona-complex/roster/1994'
-    DSL_URL = 'https://www.milb.com/dominican-summer/roster/629'
-
     names = []
-    for URL in [MLB_URL, AAA_URL, AA_URL, HighA_URL, A_URL, ACL_URL, DSL_URL]:
-        level_names = scrape_roster(URL)
+    levels = []
+    for level in ['MLB', 'AAA', 'AA', 'A+', 'A', 'ACL', 'DSL']:
+        level_names = scrape_roster(level=level)
         for name in level_names:
             if name == 'Jose De':
                 name = 'Jose De La Cruz'
             names.append(name)
+            levels.append(level)
 
-    return names
+    return names, levels
 
 

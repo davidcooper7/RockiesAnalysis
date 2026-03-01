@@ -1,5 +1,7 @@
-import os, json
+import os, json, sys
 from pybaseball import *
+from utils.scraping.split_name import split_name
+
 
 def fangraphs_playerid_lookup(last, first):
 
@@ -8,22 +10,17 @@ def fangraphs_playerid_lookup(last, first):
     
     # Lookup fangraphs id
     name = ' '.join([first, last])
-    try:
-        playerid = playerid_lookup(last, first, ignore_accents=True)['key_fangraphs'][0]
-    except:
-        if name in missing_ids.keys():
-            return missing_ids[name]
-        else:
-            print(f'First: {first}, Last: {last}')
-            raise Exception()            
+    if name in missing_ids.keys():
+        return missing_ids[name]
+    else:
+        try:
+            playerid = playerid_lookup(last, first, ignore_accents=True)['key_fangraphs'][0]
+        except:
+            raise Exception(f'First: {first}, Last: {last}')            
         
     if playerid == -1 or playerid is None:
-        if name in missing_ids.keys():
-            return missing_ids[name]
-        else:
-            print(f'First: {first}, Last: {last}')
-            display(playerid_lookup(last, first, ignore_accents=True))
-            raise Exception()
+        display(playerid_lookup(last, first, ignore_accents=True))
+        raise Exception(f'First: {first}, Last: {last}')
 
     return playerid
     
@@ -59,3 +56,12 @@ def savant_playerid_lookup(last, first):
             raise Exception()
 
     return playerid
+
+
+def load_fangraph_playerids(names):
+    playerids = []
+    for name in names:
+        playerid = fangraphs_playerid_lookup(*split_name(name))
+        playerids.append(playerid)
+
+    return playerids
