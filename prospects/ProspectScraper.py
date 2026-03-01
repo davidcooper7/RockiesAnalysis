@@ -3,14 +3,15 @@ import pandas as pd
 import numpy as np
 from utils.scraping.rosters import scrape_all_rosters
 from utils.scraping.fangraphs import get_age, get_all_player_fangraphs_props
-
+from pathlib import Path
 
 class ProspectScraper():
 
     def __init__(self, skip_names=[]):
 
         # Load propsect data
-        self.prospect_data_dir = './prospects/data/'
+        BASE_DIR = Path(__file__).resolve().parent
+        self.prospect_data_dir = BASE_DIR / "data"
         self.csv_fn = os.path.join(self.prospect_data_dir, 'prospects.csv')
         if os.path.exists(self.csv_fn):
             self.df = pd.read_csv(self.csv_fn)
