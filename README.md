@@ -10,6 +10,10 @@ README
 
 2026-1-12 [Beating the Split: Breaking Down the Rockies' Home/Away Splits](https://purpleberry.substack.com/p/beating-the-split-breaking-down-the)
 
+2026-2-14 [Beating the Split: Which Rockies Hitters Thrive at Coors and on the Road?](https://blakestreetbanter.com/2026/02/14/beating-the-coors-field-split-2/)
+
+2026-3-04 [Which Rockies Spring Training Stats Matter?](https://blakestreetbanter.com/2026/03/04/which-rockies-spring-training-stats-matter/)
+
 
 
 Future directions?
